@@ -1,0 +1,2211 @@
+[
+    {
+        "authors_email": [
+            "prbharga@cs.umd.edu", 
+            "thomas.phan@samsung.com", 
+            "jiayu.zhou@samsung.com", 
+            "juhan.l@samsung.com"
+        ], 
+        "authors": [
+            "Preeti Bhargava", 
+            "Thomas Phan", 
+            "Jiayu Zhou", 
+            "Juhan Lee"
+        ], 
+        "title": "Who, What, When, and Where: Multi-Dimensional Collaborative Recommendations using Tensor Factorization on Sparse User-Generated Data", 
+        "paper_id": "50", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "phummel@google.com", 
+            "preston@mcafee.cc"
+        ], 
+        "authors": [
+            "Patrick Hummel", 
+            "Preston McAfee"
+        ], 
+        "title": "When Does Improved Targeting Increase Revenue?", 
+        "paper_id": "98", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "philipp.singer@gesis.org", 
+            "dhelic@tugraz.at", 
+            "hotho@informatik.uni-wuerzburg.de", 
+            "markus.strohmaier@gesis.org"
+        ], 
+        "authors": [
+            "Philipp Singer", 
+            "Denis Helic", 
+            "Andreas Hotho", 
+            "Markus Strohmaier"
+        ], 
+        "title": "HypTrails: A Bayesian Approach for Comparing Hypotheses about Human Trails", 
+        "paper_id": "115", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "huangui2@illinois.edu", 
+            "yaxu@linkedin.com", 
+            "abhasin@linkedin.com", 
+            "hanj@illinois.edu"
+        ], 
+        "authors": [
+            "Huan Gui", 
+            "Ya Xu", 
+            "Anmol Bhasin", 
+            "Jiawei Han"
+        ], 
+        "title": "Network A/B Testing: From Sampling to Estimation", 
+        "paper_id": "120", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "ebakshy@gmail.com", 
+            "eitan@frachtenberg.org"
+        ], 
+        "authors": [
+            "Eytan Bakshy", 
+            "Eitan Frachtenberg"
+        ], 
+        "title": "Design and Analysis of Benchmarking Experiments for Distributed Internet Services", 
+        "paper_id": "148", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "aritter@cs.washington.edu", 
+            "evanw@cmu.edu", 
+            "wcasey@cert.org", 
+            "Tom.Mitchell@cmu.edu"
+        ], 
+        "authors": [
+            "Alan Ritter", 
+            "Evan Wright", 
+            "William Casey", 
+            "Tom Mitchell"
+        ], 
+        "title": "Weakly Supervised Extraction of Computer Security Events from Twitter", 
+        "paper_id": "151", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "suranga.seneviratne@nicta.com.au", 
+            "Aruna.Seneviratne@nicta.com.au", 
+            "Dali.Kaafar@nicta.com.au", 
+            "anirban.mahanti@nicta.com.au", 
+            "prasant@cs.ucdavis.edu"
+        ], 
+        "authors": [
+            "Suranga Seneviratne", 
+            "Aruna Seneviratne", 
+            "Dali Kaafar", 
+            "Anirban Mahanti", 
+            "Prasant Mohapatra"
+        ], 
+        "title": "Early Detection of Spam Mobile Apps", 
+        "paper_id": "152", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "chenaren@gmail.com", 
+            "hhchen@ntu.edu.tw"
+        ], 
+        "authors": [
+            "Yu-Ren Chen", 
+            "Hsin-Hsi Chen"
+        ], 
+        "title": "Opinion Spam Detection in Web Forum: A Real Case Study", 
+        "paper_id": "171", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "zhangyf07@gmail.com", 
+            "z-m@tsinghua.edu.cn", 
+            "yiz@soe.ucsc.edu", 
+            "yiqunliu@tsinghua.edu.cn", 
+            "msp@tsinghua.edu.cn"
+        ], 
+        "authors": [
+            "Yongfeng Zhang", 
+            "Min Zhang", 
+            "Yi Zhang", 
+            "Yiqun Liu", 
+            "Shaoping Ma"
+        ], 
+        "title": "Daily-Aware Personalized Recommendation based on Feature-Level Time Series Analysis", 
+        "paper_id": "185", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "vigna@di.unimi.it"
+        ], 
+        "authors": [
+            "Sebastiano Vigna"
+        ], 
+        "title": "A Weighted Correlation Index for Rankings with Ties", 
+        "paper_id": "189", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "antoine@delignat-lavaud.fr", 
+            "Karthikeyan.Bhargavan@inria.fr"
+        ], 
+        "authors": [
+            "Antoine Delignat-Lavaud", 
+            "Karthikeyan Bhargavan"
+        ], 
+        "title": "Network-based Origin Confusion Attacks against HTTPS Virtual Hosting", 
+        "paper_id": "205", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "nick@cs.stonybrook.edu", 
+            "wouter.joosen@cs.kuleuven.be", 
+            "livshits@microsoft.com"
+        ], 
+        "authors": [
+            "Nick Nikiforakis", 
+            "Wouter Joosen", 
+            "Benjamin Livshits"
+        ], 
+        "title": "PriVaricator: Deceiving fingerprinters with Little White Lies", 
+        "paper_id": "214", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "abeutel@cs.cmu.edu", 
+            "amra@google.com", 
+            "alex@smola.org"
+        ], 
+        "authors": [
+            "Alex Beutel", 
+            "Amr Ahmed", 
+            "Alexander Smola"
+        ], 
+        "title": "ACCAMS: Additive Co-Clustering to Approximate Matrices Succinctly", 
+        "paper_id": "216", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "yasuko@cs.kumamoto-u.ac.jp", 
+            "yasushi@cs.kumamoto-u.ac.jp", 
+            "christos@cs.cmu.edu"
+        ], 
+        "authors": [
+            "Yasuko Matsubara", 
+            "Yasushi Sakurai", 
+            "Christos Faloutsos"
+        ], 
+        "title": "The Web as a Jungle: Non-Linear Dynamical Systems for Co-evolving Online Activities", 
+        "paper_id": "219", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "tangjianpku@gmail.com", 
+            "qumn123@gmail.com", 
+            "wmzpku@gmail.com", 
+            "mzhang@net.pku.edu.cn", 
+            "junyan@microsoft.com", 
+            "qmei@umich.edu"
+        ], 
+        "authors": [
+            "Jian Tang", 
+            "Meng Qu", 
+            "Mingzhe Wang", 
+            "Ming Zhang", 
+            "Jun Yan", 
+            "Qiaozhu Mei"
+        ], 
+        "title": "LINE: Large-scale information network embedding", 
+        "paper_id": "228", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "petercheng456@gmail.com", 
+            "dyxu@smail.nju.edu.cn", 
+            "yzqu@nju.edu.cn"
+        ], 
+        "authors": [
+            "Gong Cheng", 
+            "Danyun Xu", 
+            "Yuzhong Qu"
+        ], 
+        "title": "Summarizing Entity Descriptions for Effective and Efficient Human-centered Entity Linking", 
+        "paper_id": "244", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "v-fuz@microsoft.com", 
+            "kevinz@itee.uq.edu.au", 
+            "nicholas.yuan@microsoft.com", 
+            "xingx@microsoft.com", 
+            "cheneh@ustc.edu.cn", 
+            "zxf@itee.uq.edu.au"
+        ], 
+        "authors": [
+            "Fuzheng Zhang", 
+            "Kai Zheng", 
+            "Nicholas Jing Yuan", 
+            "Xing Xie", 
+            "Enhong Chen", 
+            "Xiaofang Zhou"
+        ], 
+        "title": "A Novelty-Seeking based Dining Recommender System", 
+        "paper_id": "246", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "yanda@cse.cuhk.edu.hk", 
+            "jcheng@cse.cuhk.edu.hk", 
+            "ylu@cse.cuhk.edu.hk", 
+            "wilfred@cse.ust.hk"
+        ], 
+        "authors": [
+            "Da Yan", 
+            "James Cheng", 
+            "Yi Lu", 
+            "Wilfred Ng"
+        ], 
+        "title": "Effective Techniques for Message Reduction and Load Balancing in Distributed Graph Computation", 
+        "paper_id": "256", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "rokicki@L3S.de", 
+            "zerr@L3S.de", 
+            "siersdorfer@L3S.de"
+        ], 
+        "authors": [
+            "Markus Rokicki", 
+            "Sergej Zerr", 
+            "Stefan Siersdorfer"
+        ], 
+        "title": "Groupsourcing: Team Competition Designs for Crowdsourcing", 
+        "paper_id": "259", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "tsourolampis@gmail.com"
+        ], 
+        "authors": [
+            "Charalampos Tsourakakis"
+        ], 
+        "title": "The k-clique Densest Subgraph Problem", 
+        "paper_id": "264", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "danai@cs.cmu.edu", 
+            "paul.n.bennett@microsoft.com", 
+            "horvitz@microsoft.com"
+        ], 
+        "authors": [
+            "Danai Koutra", 
+            "Paul Bennett", 
+            "Eric Horvitz"
+        ], 
+        "title": "Events and Controversies: Influences of a Shocking News Event on Information Seeking", 
+        "paper_id": "278", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "rbaeza@acm.org", 
+            "boldi@di.unimi.it", 
+            "flavio@chierichetti.name"
+        ], 
+        "authors": [
+            "Ricardo Baeza-Yates", 
+            "Paolo Boldi", 
+            "Flavio Chierichetti"
+        ], 
+        "title": "Essential Web Pages Are Easy to Find", 
+        "paper_id": "295", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "madhavjha@gmail.com", 
+            "scomand@sandia.gov", 
+            "apinar@sandia.gov"
+        ], 
+        "authors": [
+            "Madhav Jha", 
+            "C. Seshadhri", 
+            "Ali Pinar"
+        ], 
+        "title": "Path Sampling: A Fast and Provable Method for Estimating 4-Vertex Subgraph Counts", 
+        "paper_id": "299", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "cjho@ucla.edu", 
+            "slivkins@microsoft.com", 
+            "suri@microsoft.com", 
+            "jenn@microsoft.com"
+        ], 
+        "authors": [
+            "Chien-Ju Ho", 
+            "Aleksandrs Slivkins", 
+            "Siddharth Suri", 
+            "Jenn Wortman Vaughan"
+        ], 
+        "title": "Incentivizing High Quality Crowdwork", 
+        "paper_id": "326", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "Hiroshi_Kajino@mist.i.u-tokyo.ac.jp", 
+            "AKIHIROK@ie.ibm.com", 
+            "ADIBOTEA@ie.ibm.com", 
+            "elizabeth.daly@ie.ibm.com", 
+            "Spyros.Kotoulas@ie.ibm.com"
+        ], 
+        "authors": [
+            "Hiroshi Kajino", 
+            "Akihiro Kishimoto", 
+            "Adi Botea", 
+            "Elizabeth Daly", 
+            "Spyros Kotoulas"
+        ], 
+        "title": "Active Learning for Multi-relational Data Construction", 
+        "paper_id": "328", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "alvor88@yandex-team.ru", 
+            "gleb57@yandex-team.ru", 
+            "pavser@yandex-team.ru", 
+            "damien@yandex-team.ru"
+        ], 
+        "authors": [
+            "Aleksandr Vorobev", 
+            "Gleb Gusev", 
+            "Pavel Serdyukov", 
+            "Damien Lefortier"
+        ], 
+        "title": "Gathering Additional Feedback on Search Results by Multi-armed Bandits with respect to Production Ranking", 
+        "paper_id": "335", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "yuraust@gmail.com", 
+            "gleb57@yandex-team.ru", 
+            "pavser@yandex-team.ru"
+        ], 
+        "authors": [
+            "Yury Ustinovskiy", 
+            "Gleb Gusev", 
+            "Pavel Serdyukov"
+        ], 
+        "title": "An Optimization Framework for Weighting Implicit Relevance Labels for Personalized Web Search", 
+        "paper_id": "339", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "liuxiaosheng@suda.edu.cn", 
+            "zengja@gmail.com", 
+            "524435966@qq.com", 
+            "yanjf@suda.edu.cn", 
+            "qyang@cse.ust.hk"
+        ], 
+        "authors": [
+            "Xiaosheng Liu", 
+            "Jia Zeng", 
+            "Xi Yang", 
+            "Jianfeng Yan", 
+            "Qiang Yang"
+        ], 
+        "title": "Scalable Parallel EM Algorithms for Latent Dirichlet Allocation in Multi-Core Systems", 
+        "paper_id": "341", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "wsong@cnu.edu.cn", 
+            "zhaoshiqi@baidu.com", 
+            "zhangchao01@baidu.com", 
+            "wu_hua@baidu.com", 
+            "wanghaifeng@baidu.com", 
+            "lzliu@cnu.edu.cn", 
+            "hswang@cnu.edu.cn"
+        ], 
+        "authors": [
+            "Wei Song", 
+            "Shiqi Zhao", 
+            "Chao Zhang", 
+            "Hua Wu", 
+            "Haifeng Wang", 
+            "Lizhen Liu", 
+            "Hanshi Wang"
+        ], 
+        "title": "Exploiting Collective Hidden Structures in Webpage Titles for Open Domain Entity Extraction", 
+        "paper_id": "370", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "b97901186@gmail.com", 
+            "pujen.cheng@gmail.com"
+        ], 
+        "authors": [
+            "Pao-Yu Chien", 
+            "Pu-Jen Cheng"
+        ], 
+        "title": "Semantic Tagging of Mathematical Expressions", 
+        "paper_id": "376", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "orens@yahoo-inc.com", 
+            "oren.anava@gmail.com", 
+            "shaharg@yahoo-inc.com", 
+            "nadavg@yahoo-inc.com", 
+            "zkarnin@yahoo-inc.com", 
+            "olegro@yahoo-inc.com", 
+            "rlempel@gmail.com"
+        ], 
+        "authors": [
+            "Oren Somekh", 
+            "Oren Anava", 
+            "Shahar Golan", 
+            "Nadav Golbandi", 
+            "Zohar Karnin", 
+            "Oleg Rokhlenko", 
+            "Ronny Lempel"
+        ], 
+        "title": "Budget-Constrained Item Cold-Start Handling in Collaborative Filtering Recommenders via Optimal Design", 
+        "paper_id": "417", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "yangzhiatpku@gmail.com", 
+            "weic@microsoft.com"
+        ], 
+        "authors": [
+            "Zhi Yang", 
+            "Wei Chen"
+        ], 
+        "title": "A Game Theoretic Model for the Formation of Navigable Small-World Networks", 
+        "paper_id": "418", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "chris@de-vries.ws", 
+            "l.devine@qut.edu.au", 
+            "s.geva@qut.edu.au", 
+            "r.nayak@qut.edu.au"
+        ], 
+        "authors": [
+            "Chris De Vries", 
+            "Lance De Vine", 
+            "Shlomo Geva", 
+            "Richi Nayak"
+        ], 
+        "title": "Parallel Streaming Signature EM-tree: A Clustering Algorithm for Web Scale Applications", 
+        "paper_id": "419", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "jlfu@nlpr.ia.ac.cn", 
+            "tmei@microsoft.com", 
+            "ustc_yky@hotmail.com", 
+            "luhq@nlpr.ia.ac.cn", 
+            "yongrui@microsoft.com"
+        ], 
+        "authors": [
+            "Jianlong Fu", 
+            "Tao Mei", 
+            "Kuiyuan Yang", 
+            "Hanqing Lu", 
+            "Yong Rui"
+        ], 
+        "title": "Tagging Personal Photos with Transfer Deep Learning", 
+        "paper_id": "420", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "mayun@pku.edu.cn", 
+            "zhangshuhui@pku.edu.cn", 
+            "liuxuanzhe@pku.edu.cn", 
+            "xiangrr0512@pku.edu.cn", 
+            "yunxin.liu@microsoft.com", 
+            "taoxie@illinois.edu"
+        ], 
+        "authors": [
+            "Yun Ma", 
+            "Shuhui Zhang", 
+            "Xuanzhe Liu", 
+            "Ruirui Xiang", 
+            "Yunxin Liu", 
+            "Tao Xie"
+        ], 
+        "title": "Measurement and Analysis of Mobile Web Cache Performance", 
+        "paper_id": "442", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "jiyuan@microsoft.com", 
+            "gf0109@gmail.com", 
+            "hoqirong@gmail.com", 
+            "wdai@cs.cmu.edu", 
+            "jinlianw@cs.cmu.edu", 
+            "xunzheng@cs.cmu.edu", 
+            "epxing@cs.cmu.edu", 
+            "tie-yan.liu@microsoft.com", 
+            "wyma@microsoft.com"
+        ], 
+        "authors": [
+            "Jinhui Yuan", 
+            "Fei Gao", 
+            "Qirong Ho", 
+            "Wei Dai", 
+            "Jinliang Wei", 
+            "Xun Zheng", 
+            "Eric Po Xing", 
+            "Tie-Yan Liu", 
+            "Wei-Ying Ma"
+        ], 
+        "title": "LightLDA: Big Topic Models on Modest Compute Clusters", 
+        "paper_id": "454", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "adrutsa@yandex.ru", 
+            "gleb57@yandex-team.ru", 
+            "pavser@yandex-team.ru"
+        ], 
+        "authors": [
+            "Alexey Drutsa", 
+            "Gleb Gusev", 
+            "Pavel Serdyukov"
+        ], 
+        "title": "Future user engagement prediction and its application to improve the sensitivity of online experiments", 
+        "paper_id": "463", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "aaron.halfaker@gmail.com", 
+            "okeyes@wikimedia.org", 
+            "kluver@cs.umn.edu", 
+            "thebault@cs.umn.edu", 
+            "nguy1749@umn.edu", 
+            "shores@cs.umn.edu", 
+            "uduwage@cs.umn.edu", 
+            "morten@cs.umn.edu"
+        ], 
+        "authors": [
+            "Aaron Halfaker", 
+            "Oliver Keyes", 
+            "Dan Kluver", 
+            "Jacob Thebault-Spieker", 
+            "Tien Nguyen", 
+            "Kenneth Shores", 
+            "Anuradha Uduwage", 
+            "Morten Warncke-Wang"
+        ], 
+        "title": "User Session Identification Based on Strong Regularities in Inter-activity Time", 
+        "paper_id": "482", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "peili@ifi.uzh.ch", 
+            "lunadong@google.com", 
+            "songtao.gg@gmail.com", 
+            "maurino@disco.unimib.it", 
+            "divesh@research.att.com"
+        ], 
+        "authors": [
+            "Pei Li", 
+            "Luna Xin Dong", 
+            "Songtao Guo", 
+            "Andrea Maurino", 
+            "Divesh Srivastava"
+        ], 
+        "title": "Robust Group Linkage", 
+        "paper_id": "484", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "nikolaj.tatti@aalto.fi", 
+            "aristides.gionis@aalto.fi"
+        ], 
+        "authors": [
+            "Nikolaj Tatti", 
+            "Aristides Gionis"
+        ], 
+        "title": "Density-friendly graph decomposition", 
+        "paper_id": "487", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "althoff.tim@gmail.com", 
+            "jure@cs.stanford.edu"
+        ], 
+        "authors": [
+            "Tim Althoff", 
+            "Jure Leskovec"
+        ], 
+        "title": "Donor Retention in Online Crowdfunding Communities: A Case Study of DonorsChoose.org", 
+        "paper_id": "508", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "duc@cwi.nl", 
+            "mail@linnea-passing.de", 
+            "oerling@openlinksw.com", 
+            "boncz@cwi.nl"
+        ], 
+        "authors": [
+            "Minh-Duc Pham", 
+            "Linnea Passing", 
+            "Orri Erling", 
+            "Peter Boncz"
+        ], 
+        "title": "Deriving an Emergent Relational Schema from RDF Data", 
+        "paper_id": "511", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "lfan3@emory.edu", 
+            "hongxia@acm.org"
+        ], 
+        "authors": [
+            "Liyue Fan", 
+            "Hongxia Jin"
+        ], 
+        "title": "A Practical Framework for Private-Preserving Data Analytics", 
+        "paper_id": "512", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "cpmeng@cs.hku.hk", 
+            "ckcheng@cs.hku.hk", 
+            "silviu.maniu@gmail.com", 
+            "pierre.senellart@telecom-paristech.fr", 
+            "wdzhang2@cs.hku.hk"
+        ], 
+        "authors": [
+            "Changping Meng", 
+            "Reynold Cheng", 
+            "Silviu Maniu", 
+            "Pierre Senellart", 
+            "Wangda Zhang"
+        ], 
+        "title": "Discovering Meta-Paths in Large Heterogeneous Information Networks", 
+        "paper_id": "524", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "tehila@nyu.edu", 
+            "kelvin.liu2@nyu.edu", 
+            "ross@poly.edu"
+        ], 
+        "authors": [
+            "Tehila Minkus", 
+            "Kelvin Liu", 
+            "Keith Ross"
+        ], 
+        "title": "Children Seen But Not Heard: When Parents Compromise Children's Online Privacy", 
+        "paper_id": "525", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "cmav@bu.edu", 
+            "richard.garcialebron@upr.edu", 
+            "i.koutis@gmail.com", 
+            "evimaria@cs.bu.edu"
+        ], 
+        "authors": [
+            "Charalampos Mavroforakis", 
+            "Richard Garcia-Lebron", 
+            "Ioannis Koutis", 
+            "Evimaria Terzi"
+        ], 
+        "title": "Spanning edge centrality: large-scale computation and applications", 
+        "paper_id": "530", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "wheaty1202@gmail.com", 
+            "dhardtke@linkedin.com"
+        ], 
+        "authors": [
+            "Jian Wang", 
+            "David Hardtke"
+        ], 
+        "title": "User Latent Preference Model for Better Downside Management in Recommender Systems", 
+        "paper_id": "533", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "thorel@seas.harvard.edu", 
+            "yaron@seas.harvard.edu"
+        ], 
+        "authors": [
+            "Thibaut Horel", 
+            "Yaron Singer"
+        ], 
+        "title": "Scalable Methods for Adaptively Seeding a Social Network", 
+        "paper_id": "553", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "tsourolampis@gmail.com"
+        ], 
+        "authors": [
+            "Charalampos Tsourakakis"
+        ], 
+        "title": "Provably Fast Inference of Latent Features from Networks", 
+        "paper_id": "554", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "yixinxa@mail.ustc.edu.cn", 
+            "tbma@comp.nus.edu.sg", 
+            "ylxu@ustc.edu.cn"
+        ], 
+        "authors": [
+            "Xin Wang", 
+            "Richard T.B. Ma", 
+            "Yinlong Xu"
+        ], 
+        "title": "The Role of Data Cap in Two-part Network Pricing", 
+        "paper_id": "572", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "kooti@usc.edu", 
+            "alucca@yahoo-inc.com", 
+            "mihajlo@yahoo-inc.com", 
+            "lerman@isi.edu", 
+            "amantrac@yahoo-inc.com"
+        ], 
+        "authors": [
+            "Farshad Kooti", 
+            "Luca Maria Aiello", 
+            "Mihajlo Grbovic", 
+            "Kristina Lerman", 
+            "Amin Mantrach"
+        ], 
+        "title": "Evolution of Conversations in the Age of Email Overload", 
+        "paper_id": "575", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "jhjin@seu.edu.cn", 
+            "samamon@gmail.com", 
+            "lgao@engin.umass.edu", 
+            "jluo@seu.edu.cn"
+        ], 
+        "authors": [
+            "Jiahui Jin", 
+            "Samamon Khemmarat", 
+            "Lixin Gao", 
+            "Junzhou Luo"
+        ], 
+        "title": "Querying Web-Scale Information Networks Through Bounding Matching Scores", 
+        "paper_id": "580", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "liangyue@asu.edu", 
+            "hanghang.tong@asu.edu", 
+            "nancao@us.ibm.com", 
+            "katee@us.ibm.com", 
+            "yurulin@pitt.edu", 
+            "norbou.buchler.civ@mail.mil"
+        ], 
+        "authors": [
+            "Liangyue Li", 
+            "Hanghang Tong", 
+            "Nan Cao", 
+            "Kate Ehrlich", 
+            "Yu-Ru Lin", 
+            "Norbou Buchler"
+        ], 
+        "title": "Replacing the Irreplaceable: Fast Algorithms for Team Member Recommendation", 
+        "paper_id": "590", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "mohamed.kafsi@epfl.ch", 
+            "henriette@yahoo-inc.com", 
+            "bthomee@yahoo-inc.com", 
+            "aymans@acm.org"
+        ], 
+        "authors": [
+            "Mohamed Kafsi", 
+            "Henriette Cramer", 
+            "Bart Thomee", 
+            "David A. Shamma"
+        ], 
+        "title": "Describing and Understanding Neighborhood Characteristics through Online Social Media", 
+        "paper_id": "593", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "rzhao@uccs.edu", 
+            "cyue@uccs.edu", 
+            "qyi@uccs.edu"
+        ], 
+        "authors": [
+            "Rui Zhao", 
+            "Chuan Yue", 
+            "Qing Yi"
+        ], 
+        "title": "Automatic Detection of Information Leakage Vulnerabilities in Browser Extensions", 
+        "paper_id": "610", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "jietang@tsinghua.edu.cn", 
+            "fzp13@mails.tsinghua.edu.cn", 
+            "jsun@cc.gatech.edu"
+        ], 
+        "authors": [
+            "Jie Tang", 
+            "Zhanpeng Fang", 
+            "Jimeng Sun"
+        ], 
+        "title": "Incorporating Social Context and Domain Knowledge for Instance Recognition", 
+        "paper_id": "611", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "rossowhite@163.com", 
+            "dcszj@mail.tsinghua.edu.cn", 
+            "xiafen@baidu.com", 
+            "zhuangxin@baidu.com", 
+            "tongzhang@baidu.com"
+        ], 
+        "authors": [
+            "Tian Tian", 
+            "Jun Zhu", 
+            "Fen Xia", 
+            "Xin Zhuang", 
+            "Tong Zhang"
+        ], 
+        "title": "Crowd Fraud Detection in Internet Advertising", 
+        "paper_id": "632", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "b.adams@auckland.ac.nz", 
+            "grantdmckenzie@gmail.com", 
+            "m.gahegan@auckland.ac.nz"
+        ], 
+        "authors": [
+            "Benjamin Adams", 
+            "Grant McKenzie", 
+            "Mark Gahegan"
+        ], 
+        "title": "Frankenplace: Interactive thematic mapping for ad hoc exploratory search", 
+        "paper_id": "641", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "vijay.gabale@gmail.com", 
+            "dilikris@in.ibm.com"
+        ], 
+        "authors": [
+            "Vijay Gabale", 
+            "Dilip Krishnaswamy"
+        ], 
+        "title": "MobInsight: On Improving The Performance of Mobile Apps in Cellular Networks", 
+        "paper_id": "645", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "arnab@informatik.uni-mannheim.de", 
+            "christian@informatik.uni-mannheim.de", 
+            "heiner@informatik.uni-mannheim.de"
+        ], 
+        "authors": [
+            "Arnab Dutta", 
+            "Christian Meilicke", 
+            "Heiner Stuckenschmidt"
+        ], 
+        "title": "Enriching Structured Knowledge with Open Information", 
+        "paper_id": "651", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "ferragina@di.unipi.it", 
+            "piccinno@di.unipi.it", 
+            "rossano.venturini@gmail.com"
+        ], 
+        "authors": [
+            "Paolo Ferragina", 
+            "Francesco Piccinno", 
+            "Rossano Venturini"
+        ], 
+        "title": "Compressed indexes for string-searching in labeled graphs", 
+        "paper_id": "676", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "krx628@hum.ku.dk", 
+            "johannsen@hum.ku.dk", 
+            "sogaard@hum.ku.dk"
+        ], 
+        "authors": [
+            "Dirk Hovy", 
+            "Anders Johannsen", 
+            "Anders Søgaard"
+        ], 
+        "title": "User review sites as a resource for large-scale sociolinguistic studies", 
+        "paper_id": "686", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "wim.martens@uni-bayreuth.de", 
+            "frank.neven@uhasselt.be", 
+            "stijn.vansummeren@ulb.ac.be"
+        ], 
+        "authors": [
+            "Wim Martens", 
+            "Frank Neven", 
+            "Stijn Vansummeren"
+        ], 
+        "title": "SCULPT: A Schema Language for Tabular Data on the Web", 
+        "paper_id": "706", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "marcin@exascale.info", 
+            "pcm@csail.mit.edu", 
+            "pgroth@gmail.com"
+        ], 
+        "authors": [
+            "Marcin Wylot", 
+            "Philippe Cudré-Mauroux", 
+            "Paul Groth"
+        ], 
+        "title": "Executing Provenance-Enabled Queries over Web Data", 
+        "paper_id": "714", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "irismili@yahoo-inc.com", 
+            "roi@yahoo-inc.com", 
+            "mounia@acm.org"
+        ], 
+        "authors": [
+            "Iris Miliaraki", 
+            "Roi Blanco", 
+            "Mounia Lalmas"
+        ], 
+        "title": "From \"Selena Gomez'' to \"Marlon Brando'': Understanding Explorative Entity Search", 
+        "paper_id": "732", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "anshu@cs.cornell.edu", 
+            "pingli@stat.rutgers.edu"
+        ], 
+        "authors": [
+            "Anshumali Shrivastava", 
+            "Ping Li"
+        ], 
+        "title": "Asymmetric Minwise Hashing for Indexing Binary Inner Products and Set Containment", 
+        "paper_id": "738", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "ricardo.usbeck@googlemail.com", 
+            "roeder@unister.de", 
+            "ngonga@informatik.uni-leipzig.de", 
+            "cirobaroneto@gmail.com", 
+            "andreas.both@unister.de", 
+            "bruemmer@informatik.uni-leipzig.de", 
+            "DIEGO.CECCARELLI@isti.cnr.it", 
+            "cornolti@di.unipi.it", 
+            "didier.cherix@unister.de", 
+            "bernd.eickmann@unister.der", 
+            "ferragina@di.unipi.it", 
+            "christiane.lemke@unister.de", 
+            "andrea8moro@gmail.com", 
+            "navigli@di.uniroma1.it", 
+            "piccinno@di.unipi.it", 
+            "giuseppe.rizzo@eurecom.fr", 
+            "harald.sack@hpi.uni-potsdam.de", 
+            "speck@informatik.uni-leipzig.de", 
+            "raphael.troncy@eurecom.fr", 
+            "joerg.waitelonis@hpi.uni-potsdam.de", 
+            "lars.wesemann@unister.de"
+        ], 
+        "authors": [
+            "Ricardo Usbeck", 
+            "Michael Röder", 
+            "Axel-Cyrille Ngonga Ngomo", 
+            "Ciro Baron", 
+            "Andreas Both", 
+            "Martin Brümmer", 
+            "Diego Ceccarelli", 
+            "Marco Cornolti", 
+            "Didier Cherix", 
+            "Bernd Eickmann", 
+            "Paolo Ferragina", 
+            "Christiane Lemke", 
+            "Andrea Moro", 
+            "Roberto Navigli", 
+            "Francesco Piccinno", 
+            "Giuseppe Rizzo", 
+            "Harald Sack", 
+            "René Speck", 
+            "Raphaël Troncy", 
+            "Jörg Waitelonis", 
+            "Lars Wesemann"
+        ], 
+        "title": "GERBIL - General Entity Annotator Benchmark", 
+        "paper_id": "751", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "vvkulkarni@cs.stonybrook.edu", 
+            "ralrfou@cs.stonybrook.edu", 
+            "bperozzi@cs.stonybrook.edu", 
+            "skiena@cs.stonybrook.edu"
+        ], 
+        "authors": [
+            "Vivek Kulkarni", 
+            "Rami Al-Rfou", 
+            "Bryan Perozzi", 
+            "Steven Skiena"
+        ], 
+        "title": "Statistically Significant Detection of Linguistic Change", 
+        "paper_id": "753", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "shirakawa.masumi@ist.osaka-u.ac.jp", 
+            "hara@ist.osaka-u.ac.jp", 
+            "nishio@ist.osaka-u.ac.jp"
+        ], 
+        "authors": [
+            "Masumi Shirakawa", 
+            "Takahiro Hara", 
+            "Shojiro Nishio"
+        ], 
+        "title": "N-gram IDF: A Global Term Weighting Scheme Based on Information Distance", 
+        "paper_id": "759", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "yaelan@tx.technion.ac.il", 
+            "noaa@yahoo-inc.com", 
+            "iftah.gamzu@cs.tau.ac.il"
+        ], 
+        "authors": [
+            "Yael Anava", 
+            "Noa Avigdor-Elgrabli", 
+            "Iftah Gamzu"
+        ], 
+        "title": "Improved Theoretical and Practical Guarantees for Chromatic Correlation Clustering", 
+        "paper_id": "778", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "xxing8@gatech.edu", 
+            "wei@gatech.edu", 
+            "udi@fb.com", 
+            "anmolsheth@gmail.com", 
+            "blee@gatech.edu", 
+            "wenke@cc.gatech.edu", 
+            "perdisci@cs.uga.edu"
+        ], 
+        "authors": [
+            "Xinyu Xing", 
+            "Wei Meng", 
+            "Udi Weinsberg", 
+            "Anmol Sheth", 
+            "Byoungyoung Lee", 
+            "Wenke Lee", 
+            "Roberto Perdisci"
+        ], 
+        "title": "Unraveling the Relationship Between Ad-Injecting Browser Extensions and Malvertising", 
+        "paper_id": "779", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "daniele.quercia@gmail.com", 
+            "alucca@yahoo-inc.com", 
+            "schifane@di.unito.it", 
+            "adam@walkonomics.com"
+        ], 
+        "authors": [
+            "Daniele Quercia", 
+            "Luca Maria Aiello", 
+            "Rossano Schifanella", 
+            "Adam Davies"
+        ], 
+        "title": "The Digital Life of Walkable Streets", 
+        "paper_id": "799", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "emilientoine@gmail.com", 
+            "adam@dl.kuis.kyoto-u.ac.jp", 
+            "kawai@cc.kyoto-su.ac.jp", 
+            "akiyama@cc.kyoto-su.ac.jp"
+        ], 
+        "authors": [
+            "Émilien Antoine", 
+            "Adam Jatowt", 
+            "Yukiko Kawai", 
+            "Toyokazu Akiyama"
+        ], 
+        "title": "Mapping Temporal Horizons", 
+        "paper_id": "810", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "jung@cs.columbia.edu", 
+            "stratos@cs.columbia.edu", 
+            "luca@cs.columbia.edu"
+        ], 
+        "authors": [
+            "Younghoon Jung", 
+            "Karl Stratos", 
+            "Luca Carloni"
+        ], 
+        "title": "LN-Annote: An Alternative Approach to Information Extraction from Emails using Locally-Customized Named-Entity Recognition", 
+        "paper_id": "831", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "wangyuhui@nus.edu.sg", 
+            "mohan@comp.nus.edu.sg"
+        ], 
+        "authors": [
+            "Yuhui Wang", 
+            "Mohan Kankanhalli"
+        ], 
+        "title": "Tweeting Cameras for Event Detection", 
+        "paper_id": "838", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "anika@cs.ucsb.edu", 
+            "yibo@cs.ucsb.edu", 
+            "ding34@purdue.edu", 
+            "jindal0@purdue.edu", 
+            "ychu@purdue.edu", 
+            "xia@cs.dartmouth.edu", 
+            "ravenben@cs.ucsb.edu", 
+            "htzheng@cs.ucsb.edu"
+        ], 
+        "authors": [
+            "Ana Nika", 
+            "Yibo Zhu", 
+            "Ning Ding", 
+            "Abhilash Jindal", 
+            "Y. Charlie Hu", 
+            "Xia Zhou", 
+            "Ben Zhao", 
+            "Haitao Zheng"
+        ], 
+        "title": "Energy and Performance of Smartphone Radio Bundling in Outdoor Environments", 
+        "paper_id": "860", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "ahmetaj@dbai.tuwien.ac.at", 
+            "wfischl@dbai.tuwien.ac.at", 
+            "pichler@dbai.tuwien.ac.at", 
+            "simkus@dbai.tuwien.ac.at", 
+            "skritek@dbai.tuwien.ac.at"
+        ], 
+        "authors": [
+            "Shqiponja Ahmetaj", 
+            "Wolfgang Fischl", 
+            "Reinhard Pichler", 
+            "Mantas Simkus", 
+            "Sebastian Skritek"
+        ], 
+        "title": "Towards Reconciling SPARQL and Certain Answers", 
+        "paper_id": "864", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "zhezhao@umich.edu", 
+            "presnick@umich.edu", 
+            "qmei@umich.edu"
+        ], 
+        "authors": [
+            "Zhe Zhao", 
+            "Paul Resnick", 
+            "Qiaozhu Mei"
+        ], 
+        "title": "Enquiring Minds: Early Detection of Rumors in Social Media from Enquiry Posts", 
+        "paper_id": "890", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "epasto@di.uniroma1.it", 
+            "silviol@google.com", 
+            "sozio@telecom-paristech.fr"
+        ], 
+        "authors": [
+            "Alessandro Epasto", 
+            "Silvio Lattanzi", 
+            "Mauro Sozio"
+        ], 
+        "title": "Efficient Densest Subgraph Computation in Evolving Graphs", 
+        "paper_id": "892", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "seyi.feyisetan@gmail.com", 
+            "E.Simperl@soton.ac.uk", 
+            "emax@ecs.soton.ac.uk", 
+            "nrs@ecs.soton.ac.uk"
+        ], 
+        "authors": [
+            "Oluwaseyi Feyisetan", 
+            "Elena Simperl", 
+            "Max Van Kleek", 
+            "Nigel Shadbolt"
+        ], 
+        "title": "Improving Paid Microtasks through Gamification and Adaptive Furtherance Incentives", 
+        "paper_id": "912", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "a.erdemsariyuce@gmail.com", 
+            "scomand@sandia.gov", 
+            "apinar@sandia.gov", 
+            "umit@bmi.osu.edu"
+        ], 
+        "authors": [
+            "Ahmet Erdem Sarıyüce", 
+            "C. Seshadhri", 
+            "Ali Pinar", 
+            "Umit V. Catalyurek"
+        ], 
+        "title": "Finding the Hierarchy of Dense Subgraphs using Nucleus Decompositions", 
+        "paper_id": "923", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "gpekhime@cs.cmu.edu", 
+            "dlymper@microsoft.com", 
+            "Oriana.Riva@microsoft.com", 
+            "kstrauss@microsoft.com", 
+            "dburger@microsoft.com"
+        ], 
+        "authors": [
+            "Gennady Pekhimenko", 
+            "Dimitrios Lymberopolous", 
+            "Oriana Riva", 
+            "Karin Strauss", 
+            "Doug Burger"
+        ], 
+        "title": "PocketTrend: Timely Identification and Delivery of Trending Search Content to Mobile Users", 
+        "paper_id": "947", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "tsoru@informatik.uni-leipzig.de", 
+            "marx@informatik.uni-leipzig.de", 
+            "ngonga@informatik.uni-leipzig.de"
+        ], 
+        "authors": [
+            "Tommaso Soru", 
+            "Edgard Marx", 
+            "Axel-Cyrille Ngonga Ngomo"
+        ], 
+        "title": "ROCKER - A Refinement Operator for Key Discovery", 
+        "paper_id": "973", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "nemanja@yahoo-inc.com", 
+            "hwu732@usc.edu", 
+            "vladan@yahoo-inc.com", 
+            "mihajlo@yahoo-inc.com", 
+            "narayanb@yahoo-inc.com"
+        ], 
+        "authors": [
+            "Nemanja Djuric", 
+            "Hao Wu", 
+            "Vladan Radosavljevic", 
+            "Mihajlo Grbovic", 
+            "Narayan Bhamidipati"
+        ], 
+        "title": "Hierarchical Neural Language Models for Joint Representation of Streaming Documents and their Content", 
+        "paper_id": "984", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "chiw@microsoft.com", 
+            "kaushik@microsoft.com", 
+            "yeyehe@microsoft.com", 
+            "krisgan@microsoft.com", 
+            "zmchen@microsoft.com", 
+            "philbe@microsoft.com"
+        ], 
+        "authors": [
+            "Chi Wang", 
+            "Kaushik Chakrabarti", 
+            "Yeye He", 
+            "Kris Ganjam", 
+            "Zhimin Chen", 
+            "Philip A. Bernstein"
+        ], 
+        "title": "Expansion of Tail Concepts Using Web Tables", 
+        "paper_id": "991", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "mvigil@cs.ucsb.edu", 
+            "mrantanen@sctdv.net", 
+            "ebelding@cs.ucsb.edu"
+        ], 
+        "authors": [
+            "Morgan Vigil", 
+            "Matthew Rantanen", 
+            "Elizabeth Belding"
+        ], 
+        "title": "A First Look at Tribal Web Traffic", 
+        "paper_id": "1022", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "milads@microsoft.com", 
+            "marc.sloan.10@ucl.ac.uk", 
+            "paul.n.bennett@microsoft.com", 
+            "kevynct@umich.edu", 
+            "ssarkizova@g.harvard.edu"
+        ], 
+        "authors": [
+            "Milad Shokouhi", 
+            "Marc Sloan", 
+            "Paul Bennett", 
+            "Kevyn Collins-Thompson", 
+            "Siranush Sarkizova"
+        ], 
+        "title": "Contextual Disambiguation for Query Suggestion and Blending", 
+        "paper_id": "1028", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "za2153@columbia.edu", 
+            "bhaskara@cs.princeton.edu", 
+            "misra@cs.columbia.edu"
+        ], 
+        "authors": [
+            "Zeinab Abbassi", 
+            "Aditya Bhaskara", 
+            "Vishal Misra"
+        ], 
+        "title": "Optimizing Display Advertising in Online Social Networks", 
+        "paper_id": "1038", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "yanxin.lu@rice.edu", 
+            "jwarren@rice.edu", 
+            "cmj4@rice.edu", 
+            "swarat@rice.edu", 
+            "rixner@rice.edu"
+        ], 
+        "authors": [
+            "Yanxin Lu", 
+            "Joe Warren", 
+            "Chris Jermaine", 
+            "Swarat Chaudhuri", 
+            "Scott Rixner"
+        ], 
+        "title": "Grading the Graders: Motivating Peer Graders in a MOOC", 
+        "paper_id": "1047", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "hxu@cs.wm.edu", 
+            "dpliu@udel.edu", 
+            "hnw@udel.edu", 
+            "astavrou@gmu.edu"
+        ], 
+        "authors": [
+            "Haitao Xu", 
+            "Daiping Liu", 
+            "Haining Wang", 
+            "Angelos Stavrou"
+        ], 
+        "title": "E-commerce Reputation Manipulation: The Emergence of Reputation-Escalation-as-a-Service", 
+        "paper_id": "1051", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "huansun@cs.ucsb.edu", 
+            "haoma@microsoft.com", 
+            "scottyih@microsoft.com", 
+            "ctsai12@illinois.edu", 
+            "jingjl@microsoft.com", 
+            "minchang@microsoft.com"
+        ], 
+        "authors": [
+            "Huan Sun", 
+            "Hao Ma", 
+            "Wen-Tau Yih", 
+            "Chen-Tse Tsai", 
+            "Jingjing Liu", 
+            "Ming-Wei Chang"
+        ], 
+        "title": "Open Domain Question Answering via Semantic Enrichment", 
+        "paper_id": "1068", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "ag865@cornell.edu", 
+            "phummel@google.com"
+        ], 
+        "authors": [
+            "Arpita Ghosh", 
+            "Patrick Hummel"
+        ], 
+        "title": "Cardinal Contests", 
+        "paper_id": "1070", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "aidhog@gmail.com"
+        ], 
+        "authors": [
+            "Aidan Hogan"
+        ], 
+        "title": "Skolemising Blank Nodes while Preserving Isomorphism", 
+        "paper_id": "1075", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "anne.bowser@gmail.com", 
+            "janice.tsai@microsoft.com"
+        ], 
+        "authors": [
+            "Anne Bowser", 
+            "Janice Tsai"
+        ], 
+        "title": "Supporting Ethical Web Research: A New Research Ethics Review", 
+        "paper_id": "1079", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "aminnich@cs.unm.edu", 
+            "nikan.chavoshi@gmail.com", 
+            "mueen@cs.unm.edu", 
+            "sluan@cs.unm.edu", 
+            "michalis@cs.unm.edu"
+        ], 
+        "authors": [
+            "Amanda Minnich", 
+            "Nikan Chavoshi", 
+            "Abdullah Mueen", 
+            "Shuang Luan", 
+            "Michalis Faloutsos"
+        ], 
+        "title": "TrueView: Harnessing the power of multiple review sites", 
+        "paper_id": "1088", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "zhezhao@umich.edu", 
+            "zcheng@google.com", 
+            "lichan@google.com", 
+            "edchi@google.com"
+        ], 
+        "authors": [
+            "Zhe Zhao", 
+            "Zhiyuan Cheng", 
+            "Lichan Hong", 
+            "Ed Chi"
+        ], 
+        "title": "Improving User Topic Interest Profiles by Behavior Factorization", 
+        "paper_id": "1092", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "richard@cs.utexas.edu", 
+            "suman@cs.utexas.edu", 
+            "shmat@cs.utexas.edu"
+        ], 
+        "authors": [
+            "Richard McPherson", 
+            "Suman Jana", 
+            "Vitaly Shmatikov"
+        ], 
+        "title": "No Escape From Reality: Security and Privacy of Augmented Reality Browsers", 
+        "paper_id": "1095", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "jwadleigh@smu.edu", 
+            "jdrew@smu.edu", 
+            "twmoore@gmail.com"
+        ], 
+        "authors": [
+            "John Wadleigh", 
+            "Jake Drew", 
+            "Tyler Moore"
+        ], 
+        "title": "The E-Commerce Market for \"Lemons'': Identification and Analysis of Websites Selling Counterfeit Goods", 
+        "paper_id": "1096", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "shanchan.wu@hp.com", 
+            "jerry.liu@hp.com", 
+            "Jian.fan@hp.com"
+        ], 
+        "authors": [
+            "Shanchan Wu", 
+            "Jerry Liu", 
+            "Jian Fan"
+        ], 
+        "title": "Automatic Web Content Extraction by Combination of Learning and Grouping", 
+        "paper_id": "1099", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "cagatay.goncu@monash.edu", 
+            "amad29@student.monash.edu", 
+            "kim.marriott@infotech.monash.edu.au", 
+            "simone.marinai@unifi.it"
+        ], 
+        "authors": [
+            "Cagatay Goncu", 
+            "Anuradha Madugalla", 
+            "Kim Marriott", 
+            "Simone Marinai"
+        ], 
+        "title": "Accessible On-Line Floor Plans", 
+        "paper_id": "1100", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "chenhao@cs.cornell.edu", 
+            "llee@cs.cornell.edu"
+        ], 
+        "authors": [
+            "Chenhao Tan", 
+            "Lillian Lee"
+        ], 
+        "title": "All Who Wander: On the Prevalence and Characteristics of Multi-community Engagement", 
+        "paper_id": "1105", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "mpaul39@gmail.com", 
+            "ryenw@microsoft.com", 
+            "horvitz@microsoft.com"
+        ], 
+        "authors": [
+            "Michael Paul", 
+            "Ryen W. White", 
+            "Eric Horvitz"
+        ], 
+        "title": "Diagnoses, Decisions, and Outcomes: Web Search as Medical Decision Support for Cancer", 
+        "paper_id": "1122", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "mgeorgiev@utexas.edu", 
+            "suman@cs.utexas.edu", 
+            "shmat@cs.utexas.edu"
+        ], 
+        "authors": [
+            "Martin Georgiev", 
+            "Suman Jana", 
+            "Vitaly Shmatikov"
+        ], 
+        "title": "Rethinking Security of Web-Based System Applications", 
+        "paper_id": "1139", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "nicimm@gmail.com", 
+            "stoddardg@gmail.com", 
+            "vasilis@cs.cornell.edu"
+        ], 
+        "authors": [
+            "Nicole Immorlica", 
+            "Greg Stoddard", 
+            "Vasilis Syrgkanis"
+        ], 
+        "title": "Social Status and Badge Design", 
+        "paper_id": "1147", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "chakrabarti.14@osu.edu", 
+            "srini@cse.ohio-state.edu"
+        ], 
+        "authors": [
+            "Aniket Chakrabarti", 
+            "Srinivasan Parthasarathy"
+        ], 
+        "title": "Sequential Hypothesis Tests for Adaptive Locality Sensitive Hashing", 
+        "paper_id": "1153", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "west@cs.stanford.edu", 
+            "ashwinp@cs.stanford.edu", 
+            "jure@cs.stanford.edu"
+        ], 
+        "authors": [
+            "Robert West", 
+            "Ashwin Paranjape", 
+            "Jure Leskovec"
+        ], 
+        "title": "Mining Missing Hyperlinks from Human Navigation Traces: A Case Study of Wikipedia", 
+        "paper_id": "1157", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "ame2154@columbia.edu", 
+            "yangsong@microsoft.com", 
+            "xiaohe@microsoft.com"
+        ], 
+        "authors": [
+            "Ali Mamdouh Elkahky", 
+            "Yang Song", 
+            "Xiaodong He"
+        ], 
+        "title": "A Multi-View Deep Learning Approach for User Modeling in Recommendation Systems", 
+        "paper_id": "1159", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "jpfeiffer@purdue.edu", 
+            "neville@cs.purdue.edu", 
+            "paul.n.bennett@microsoft.com"
+        ], 
+        "authors": [
+            "Joseph Pfeiffer", 
+            "Jennifer Neville", 
+            "Paul Bennett"
+        ], 
+        "title": "Overcoming relational learning biases to accurately predict preferences in large scale networks", 
+        "paper_id": "1169", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "jpjiang@cs.umass.edu", 
+            "hassanam@microsoft.com", 
+            "rosie.jones@microsoft.com", 
+            "umut.ozertum@microsoft.com", 
+            "izitouni@microsoft.com", 
+            "raguruna@microsoft.com", 
+            "omarzia.khan@microsoft.com"
+        ], 
+        "authors": [
+            "Jiepu Jiang", 
+            "Ahmed Hassan Awadallah", 
+            "Rosie Jones", 
+            "Umut Ozertem", 
+            "Imed Zitouni", 
+            "Ranjitha Gurunath Kulkarni", 
+            "Omar Zia Khan"
+        ], 
+        "title": "Automatic Online Evaluation of Intelligent Personal Assistants", 
+        "paper_id": "1187", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "ftao2@illinois.edu", 
+            "bo.zhao.uiuc@gmail.com", 
+            "afuxman@gmail.com", 
+            "yangli@cs.ucsb.edu", 
+            "hanj@illinois.edu"
+        ], 
+        "authors": [
+            "Fangbo Tao", 
+            "Bo Zhao", 
+            "Ariel Fuxman", 
+            "Yang Li", 
+            "Jiawei Han"
+        ], 
+        "title": "Leveraging Pattern Semantics for Constructing Entity Taxonomies in Enterprises", 
+        "paper_id": "1199", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "changtao.zhong@kcl.ac.uk", 
+            "dmytro.karamshuk@kcl.ac.uk", 
+            "nishanth.sastry@kcl.ac.uk"
+        ], 
+        "authors": [
+            "Changtao Zhong", 
+            "Dmytro Karamshuk", 
+            "Nishanth Sastry"
+        ], 
+        "title": "Predicting Pinterest: automating a distributed human computation", 
+        "paper_id": "1215", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "ashton@cs.stanford.edu", 
+            "dph@cs.cornell.edu", 
+            "kleinber@cs.cornell.edu", 
+            "jure@cs.stanford.edu", 
+            "mtiwari@linkedin.com"
+        ], 
+        "authors": [
+            "Ashton Anderson", 
+            "Daniel Huttenlocher", 
+            "Jon Kleinberg", 
+            "Jure Leskovec", 
+            "Mitul Tiwari"
+        ], 
+        "title": "Global Diffusion via Cascading Invitations: Structure, Growth, and Homophily", 
+        "paper_id": "1223", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "rui.yan.pku@gmail.com", 
+            "ianyen@cs.utexas.edu", 
+            "ctli@citi.sinica.edu.tw", 
+            "zhaoshiqi@baidu.com", 
+            "xh29@drexel.edu"
+        ], 
+        "authors": [
+            "Rui Yan", 
+            "Yen E.H. Ian", 
+            "Li Cheng-Te", 
+            "Zhao Shiqi", 
+            "Hu Xiaohua"
+        ], 
+        "title": "Tackling the Achilles Heel of Social Networks: Influence Propagation based Language Model Smoothing", 
+        "paper_id": "1231", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "imrul@mail.usf.edu", 
+            "kourtell@yahoo-inc.com", 
+            "daniele.quercia@gmail.com", 
+            "anda@cse.usf.edu", 
+            "bonchi@yahoo-inc.com"
+        ], 
+        "authors": [
+            "Imrul Kayes", 
+            "Nicolas Kourtellis", 
+            "Daniele Quercia", 
+            "Adriana Iamnitchi", 
+            "Francesco Bonchi"
+        ], 
+        "title": "The Social World of Content Abusers in Community Question Answering", 
+        "paper_id": "1241", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "JessieLi@ist.psu.edu", 
+            "fxw133@psu.edu", 
+            "hxw186@psu.edu", 
+            "wlee@cse.psu.edu"
+        ], 
+        "authors": [
+            "Zhenhui Li", 
+            "Fei Wu", 
+            "Hongjian Wang", 
+            "Wang-Chien Lee"
+        ], 
+        "title": "Annotate Mobility Data using Social Media", 
+        "paper_id": "1256", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "yl2363@cornell.edu", 
+            "brooklet60@hust.edu.cn", 
+            "bindel@cs.cornell.edu", 
+            "jeh@cs.cornell.edu"
+        ], 
+        "authors": [
+            "Yixuan Li", 
+            "Kun He", 
+            "David Bindel", 
+            "John E. Hopcroft"
+        ], 
+        "title": "Uncovering the Small Community Structure in Large Networks: A Local Spectral Approach", 
+        "paper_id": "1263", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "ribeiro@cs.cmu.edu", 
+            "mhoang@cs.ucsb.edu", 
+            "ambuj@cs.ucsb.edu"
+        ], 
+        "authors": [
+            "Bruno Ribeiro", 
+            "Minh Hoang", 
+            "Ambuj Singh"
+        ], 
+        "title": "Beyond Models: Forecasting Complex Network Processes Directly from Data", 
+        "paper_id": "1287", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "christa@cs.umn.edu", 
+            "banerjee@cs.umn.edu"
+        ], 
+        "authors": [
+            "Konstantina Christakopoulou", 
+            "Arindam Banerjee"
+        ], 
+        "title": "Collaborative Ranking with a Push at the Top", 
+        "paper_id": "1288", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "ste@cs.princeton.edu", 
+            "dreisman@princeton.edu", 
+            "cge@princeton.edu", 
+            "peterz@cs.princeton.edu", 
+            "arvindn@cs.princeton.edu", 
+            "jmayer@stanford.edu", 
+            "felten@cs.princeton.edu"
+        ], 
+        "authors": [
+            "Steven Englehardt", 
+            "Dillon Reisman", 
+            "Christian Eubank", 
+            "Peter Zimmerman", 
+            "Arvind Narayanan", 
+            "Jonathan Mayer", 
+            "Edward Felten"
+        ], 
+        "title": "Cookies that give you away: Evaluating the surveillance implications of web tracking", 
+        "paper_id": "1298", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "aantikac@andrew.cmu.edu", 
+            "ravi@andrew.cmu.edu", 
+            "srinath@bloomreach.com"
+        ], 
+        "authors": [
+            "Arda Antikacioglu", 
+            "R Ravi", 
+            "Srinath Sridhar"
+        ], 
+        "title": "Recommendation Subgraphs for Web Discovery", 
+        "paper_id": "1299", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "akobren@cs.umass.edu", 
+            "chunhowt@google.com", 
+            "panos@stern.nyu.edu", 
+            "gabr@google.com"
+        ], 
+        "authors": [
+            "Ari Kobren", 
+            "Chun How Tan", 
+            "Panos Ipeirotis", 
+            "Evgeniy Gabrilovich"
+        ], 
+        "title": "Getting More for Less: Optimized Crowdsourcing with Dynamic Tasks and Goals", 
+        "paper_id": "1310", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "rofuyu@cs.utexas.edu", 
+            "cjhsieh@cs.utexas.edu", 
+            "yun3@purdue.edu", 
+            "vishy@ucsc.edu", 
+            "inderjit@cs.utexas.edu"
+        ], 
+        "authors": [
+            "Hsiang-Fu Yu", 
+            "Cho-Jui Hsieh", 
+            "Hyokun Yun", 
+            "S.V.N Vishwanathan", 
+            "Inderjit S. Dhillon"
+        ], 
+        "title": "A Scalable Asynchronous Distributed Algorithm for Topic Modeling", 
+        "paper_id": "1316", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "ruoti@isrl.byu.edu", 
+            "seamons@cs.byu.edu", 
+            "roberts@isrl.byu.edu"
+        ], 
+        "authors": [
+            "Scott Ruoti", 
+            "Kent Seamons", 
+            "Brent Robers"
+        ], 
+        "title": "Authentication Melee: A Usability Analysis of Seven Web Authentication Systems", 
+        "paper_id": "1323", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "imk36@cornell.edu", 
+            "ladamic@fb.com", 
+            "kleinber@cs.cornell.edu", 
+            "shaomei@fb.com"
+        ], 
+        "authors": [
+            "Isabel Kloumann", 
+            "Lada Adamic", 
+            "Jon Kleinberg", 
+            "Shaomei Wu"
+        ], 
+        "title": "The Lifecycles of Apps in a Social Ecosystem", 
+        "paper_id": "1324", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "djelleleddine.difallah@unifr.ch", 
+            "michele.catasta@epfl.ch", 
+            "g.demartini@sheffield.ac.uk", 
+            "panos@stern.nyu.edu", 
+            "pcm@csail.mit.edu"
+        ], 
+        "authors": [
+            "Djellel Eddine Difallah", 
+            "Michele Catasta", 
+            "Gianluca Demartini", 
+            "Panos Ipeirotis", 
+            "Philippe Cudré-Mauroux"
+        ], 
+        "title": "The Dynamics of Micro-Task Crowdsourcing -- The Case of Amazon MTurk", 
+        "paper_id": "1365", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "souvik.sen@hp.com", 
+            "dongho.kim@hp.com", 
+            "stephane.laroche@hp.com", 
+            "kyu-han.kim@hp.com", 
+            "jklee@hp.com"
+        ], 
+        "authors": [
+            "Souvik Sen", 
+            "Dongho Kim", 
+            "Stephane Laroche", 
+            "Kyu-Han Kim", 
+            "Jeongkeun Lee"
+        ], 
+        "title": "Bringing WiFi based Indoor Localization from Research to Practice with PASCAL", 
+        "paper_id": "1378", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "stutz@ifi.uzh.ch", 
+            "bpaudel@ifi.uzh.ch", 
+            "verman@ifi.uzh.ch", 
+            "bernstein@ifi.uzh.ch"
+        ], 
+        "authors": [
+            "Philip Stutz", 
+            "Bibek Paudel", 
+            "Mihaela Verman", 
+            "Abraham Bernstein"
+        ], 
+        "title": "Random-Walk TripleRush: Asynchronous Graph Querying and Sampling", 
+        "paper_id": "1396", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "vniculae@mpi-sws.org", 
+            "cysuen@stanford.edu", 
+            "justinez@stanford.edu", 
+            "cristian@mpi-sws.org", 
+            "jure@cs.stanford.edu"
+        ], 
+        "authors": [
+            "Vlad Niculae", 
+            "Caroline Suen", 
+            "Justine Zhang", 
+            "Cristian Danescu-Niculescu-Mizil", 
+            "Jure Leskovec"
+        ], 
+        "title": "QUOTUS: The Structure of Political Media Coverage as Revealed by Quoting Patterns", 
+        "paper_id": "1405", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "edwin@robots.ox.ac.uk", 
+            "mv1g10@ecs.soton.ac.uk", 
+            "pkohli@microsoft.com", 
+            "joguiver@microsoft.com", 
+            "reece@robots.ox.ac.uk", 
+            "sjrob@robots.ox.ac.uk", 
+            "nrj@ecs.soton.ac.uk"
+        ], 
+        "authors": [
+            "Edwin Simpson", 
+            "Matteo Venanzi", 
+            "Pushmeet Kohli", 
+            "John Guiver", 
+            "Steven Reece", 
+            "Stephen Roberts", 
+            "Nick Jennings"
+        ], 
+        "title": "Crowdsourcing Language Understanding in the Wild", 
+        "paper_id": "1423", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "mb2232@cornell.edu", 
+            "thblake@ebay.com", 
+            "dmasterov@ebay.com", 
+            "stadelis@haas.berkeley.edu"
+        ], 
+        "authors": [
+            "Matt Backus", 
+            "Tom Blake", 
+            "Dimitriy Masterov", 
+            "Steve Tadelis"
+        ], 
+        "title": "Is Sniping A Problem for Online Auction Markets?", 
+        "paper_id": "1435", 
+        "paper_type": "Research paper"
+    }, 
+    {
+        "authors_email": [
+            "jbonneau@princeton.edu", 
+            "elieb@google.com", 
+            "roj@google.com", 
+            "miwilliamson@google.com"
+        ], 
+        "authors": [
+            "Joseph Bonneau", 
+            "Elie Bursztein", 
+            "Rob Jackson", 
+            "Mike Williamson"
+        ], 
+        "title": "Secrets, lies, and account recovery: Lessons from the use of personal knowledge questions at Google", 
+        "paper_id": "1446", 
+        "paper_type": "Research paper"
+    }
+]

@@ -1,0 +1,487 @@
+name,affiliation,email,family_name,paper_ids,paper_count
+Zeinab Abbassi,Columbia University,za2153@columbia.edu,Abbassi,1038,1
+Lada Adamic,Facebook Inc.,ladamic@fb.com,Adamic,1324,1
+Benjamin Adams,"The University of Auckland, New Zealand",b.adams@auckland.ac.nz,Adams,641,1
+Amr Ahmed,"Google, Strategic Technologies",amra@google.com,Ahmed,216,1
+Shqiponja Ahmetaj,Vienna University of Technology,ahmetaj@dbai.tuwien.ac.at,Ahmetaj,864,1
+Luca Maria Aiello,Yahoo! Labs Barcelona,alucca@yahoo-inc.com,Aiello,575;799,2
+Toyokazu Akiyama,Kyoto Sangyo University,akiyama@cc.kyoto-su.ac.jp,Akiyama,810,1
+Rami Al-Rfou,Stony Brook University,ralrfou@cs.stonybrook.edu,Al-Rfou,753,1
+Tim Althoff,Stanford University,althoff.tim@gmail.com,Althoff,508,1
+Oren Anava,Technion,oren.anava@gmail.com,Anava,417,1
+Yael Anava,Technion - Israel Institute of Technology,yaelan@tx.technion.ac.il,Anava,778,1
+Ashton Anderson,Stanford University,ashton@cs.stanford.edu,Anderson,1223,1
+Arda Antikacioglu,Carnegie Mellon University,aantikac@andrew.cmu.edu,Antikacioglu,1299,1
+Émilien Antoine,Kyoto Sangyo University,emilientoine@gmail.com,Antoine,810,1
+Noa Avigdor-Elgrabli,Yahoo Labs,noaa@yahoo-inc.com,Avigdor-Elgrabli,778,1
+Ahmed Hassan Awadallah,Microsoft Research,hassanam@microsoft.com,Awadallah,1187,1
+Matt Backus,Cornell,mb2232@cornell.edu,Backus,1435,1
+Ricardo Baeza-Yates,Yahoo Labs Barcelona,rbaeza@acm.org,Baeza-Yates,295,1
+Eytan Bakshy,Facebook,ebakshy@gmail.com,Bakshy,148,1
+Arindam Banerjee,"Dept. of Computer Science and Engineering, University of Minnesota, Twin Cities",banerjee@cs.umn.edu,Banerjee,1288,1
+Ciro Baron,University of Leipzig,cirobaroneto@gmail.com,Baron,751,1
+Elizabeth Belding,"University of California, Santa Barbara",ebelding@cs.ucsb.edu,Belding,1022,1
+Paul Bennett,Microsoft Research,paul.n.bennett@microsoft.com,Bennett,278;1028;1169,3
+Philip A. Bernstein,Microsoft Research,philbe@microsoft.com,Bernstein,991,1
+Abraham Bernstein,University of Zurich,bernstein@ifi.uzh.ch,Bernstein,1396,1
+Alex Beutel,Carnegie Mellon University,abeutel@cs.cmu.edu,Beutel,216,1
+Narayan Bhamidipati,Yahoo! Labs,narayanb@yahoo-inc.com,Bhamidipati,984,1
+Preeti Bhargava,"University of Maryland, College Park",prbharga@cs.umd.edu,Bhargava,50,1
+Karthikeyan Bhargavan,INRIA,Karthikeyan.Bhargavan@inria.fr,Bhargavan,205,1
+Anmol Bhasin,LinkedIn Corporation,abhasin@linkedin.com,Bhasin,120,1
+Aditya Bhaskara,Google,bhaskara@cs.princeton.edu,Bhaskara,1038,1
+David Bindel,Cornell Unveristy,bindel@cs.cornell.edu,Bindel,1263,1
+Tom Blake,eBay,thblake@ebay.com,Blake,1435,1
+Roi Blanco,"Yahoo Labs, Spain",roi@yahoo-inc.com,Blanco,732,1
+Paolo Boldi,Università degli Studi di Milano,boldi@di.unimi.it,Boldi,295,1
+Francesco Bonchi,Yahoo Labs Barcelona,bonchi@yahoo-inc.com,Bonchi,1241,1
+Peter Boncz,CWI,boncz@cwi.nl,Boncz,511,1
+Joseph Bonneau,Princeton,jbonneau@princeton.edu,Bonneau,1446,1
+Adi Botea,IBM Research - Ireland,ADIBOTEA@ie.ibm.com,Botea,328,1
+Andreas Both,"Unister R&D, Leipzig",andreas.both@unister.de,Both,751,1
+Anne Bowser,University of Maryland,anne.bowser@gmail.com,Bowser,1079,1
+Martin Brümmer,University of Leipzig,bruemmer@informatik.uni-leipzig.de,Brümmer,751,1
+Norbou Buchler,US Army Research Laboratory,norbou.buchler.civ@mail.mil,Buchler,590,1
+Doug Burger,MSR,dburger@microsoft.com,Burger,947,1
+Elie Bursztein,Google,elieb@google.com,Bursztein,1446,1
+Nan Cao,IBM Research,nancao@us.ibm.com,Cao,590,1
+Luca Carloni,Columbia University,luca@cs.columbia.edu,Carloni,831,1
+William Casey,Carnegie Mellon University,wcasey@cert.org,Casey,151,1
+Umit V. Catalyurek,The Ohio State University,umit@bmi.osu.edu,Catalyurek,923,1
+Michele Catasta,EPFL,michele.catasta@epfl.ch,Catasta,1365,1
+Diego Ceccarelli,ISTI CNR,DIEGO.CECCARELLI@isti.cnr.it,Ceccarelli,751,1
+Aniket Chakrabarti,The Ohio State University,chakrabarti.14@osu.edu,Chakrabarti,1153,1
+Kaushik Chakrabarti,Microsoft Research,kaushik@microsoft.com,Chakrabarti,991,1
+Ming-Wei Chang,Microsoft Research,minchang@microsoft.com,Chang,1068,1
+Swarat Chaudhuri,Rice University,swarat@rice.edu,Chaudhuri,1047,1
+Nikan Chavoshi,University of New Mexico,nikan.chavoshi@gmail.com,Chavoshi,1088,1
+Wei Chen,Microsoft Research,weic@microsoft.com,Chen,418,1
+Zhimin Chen,Microsoft Research,zmchen@microsoft.com,Chen,991,1
+Hsin-Hsi Chen,National Taiwan University,hhchen@ntu.edu.tw,Chen,171,1
+Yu-Ren Chen,National Taiwan University,chenaren@gmail.com,Chen,171,1
+Enhong Chen,University of Science and Technology of China,cheneh@ustc.edu.cn,Chen,246,1
+James Cheng,CUHK,jcheng@cse.cuhk.edu.hk,Cheng,256,1
+Zhiyuan Cheng,Google. Inc.,zcheng@google.com,Cheng,1092,1
+Gong Cheng,Nanjing University,petercheng456@gmail.com,Cheng,244,1
+Reynold Cheng,The University of Hong Kong,ckcheng@cs.hku.hk,Cheng,524,1
+Pu-Jen Cheng,NTU,pujen.cheng@gmail.com,Cheng,376,1
+Li Cheng-Te,Academia Sinica,ctli@citi.sinica.edu.tw,Cheng-Te,1231,1
+Didier Cherix,"Unister R&D, Leipzig",didier.cherix@unister.de,Cherix,751,1
+Ed Chi,Google. Inc.,edchi@google.com,Chi,1092,1
+Pao-Yu Chien,NTU,b97901186@gmail.com,Chien,376,1
+Flavio Chierichetti,Sapienza University,flavio@chierichetti.name,Chierichetti,295,1
+Konstantina Christakopoulou,"Dept. of Computer Science and Engineering, University of Minnesota, Twin Cities",christa@cs.umn.edu,Christakopoulou,1288,1
+Kevyn Collins-Thompson,University of Michigan,kevynct@umich.edu,Collins-Thompson,1028,1
+Marco Cornolti,University of Pisa,cornolti@di.unipi.it,Cornolti,751,1
+Henriette Cramer,Yahoo Labs,henriette@yahoo-inc.com,Cramer,593,1
+Philippe Cudré-Mauroux,U. of Fribourg,pcm@csail.mit.edu,Cudré-Mauroux,714;1365,2
+Wei Dai,Carnegie Mellon University,wdai@cs.cmu.edu,Dai,454,1
+Elizabeth Daly,IBM Research - Ireland,elizabeth.daly@ie.ibm.com,Daly,328,1
+Cristian Danescu-Niculescu-Mizil,Max Planck Institute SWS,cristian@mpi-sws.org,Danescu-Niculescu-Mizil,1405,1
+Adam Davies,Walkonomics,adam@walkonomics.com,Davies,799,1
+Antoine Delignat-Lavaud,INRIA Paris-Rocquencourt,antoine@delignat-lavaud.fr,Delignat-Lavaud,205,1
+Gianluca Demartini,University of Sheffield,g.demartini@sheffield.ac.uk,Demartini,1365,1
+Inderjit S. Dhillon,Univeristy of Texas at Austin,inderjit@cs.utexas.edu,Dhillon,1316,1
+Djellel Eddine Difallah,University of Fribourg,djelleleddine.difallah@unifr.ch,Difallah,1365,1
+Ning Ding,Purdue University,ding34@purdue.edu,Ding,860,1
+Nemanja Djuric,Yahoo! Labs,nemanja@yahoo-inc.com,Djuric,984,1
+Luna Xin Dong,Google,lunadong@google.com,Dong,484,1
+Jake Drew,Southern Methodist University,jdrew@smu.edu,Drew,1096,1
+Alexey Drutsa,Yandex,adrutsa@yandex.ru,Drutsa,463,1
+Arnab Dutta,university of mannheim,arnab@informatik.uni-mannheim.de,Dutta,651,1
+Kate Ehrlich,IBM Research,katee@us.ibm.com,Ehrlich,590,1
+Bernd Eickmann,"Unister R&D, Leipzig",bernd.eickmann@unister.der,Eickmann,751,1
+Ali Mamdouh Elkahky,Columbia University,ame2154@columbia.edu,Elkahky,1159,1
+Steven Englehardt,Princeton University,ste@cs.princeton.edu,Englehardt,1298,1
+Alessandro Epasto,Sapienza University of Rome,epasto@di.uniroma1.it,Epasto,892,1
+Orri Erling,OpenLink Software,oerling@openlinksw.com,Erling,511,1
+Christian Eubank,Princeton University,cge@princeton.edu,Eubank,1298,1
+Michalis Faloutsos,University of New Mexico,michalis@cs.unm.edu,Faloutsos,1088,1
+Christos Faloutsos,Carnegie Mellon University,christos@cs.cmu.edu,Faloutsos,219,1
+Jian Fan,HP Labs,Jian.fan@hp.com,Fan,1099,1
+Liyue Fan,Emory University,lfan3@emory.edu,Fan,512,1
+Zhanpeng Fang,Tsinghua University,fzp13@mails.tsinghua.edu.cn,Fang,611,1
+Edward Felten,Princeton University,felten@cs.princeton.edu,Felten,1298,1
+Paolo Ferragina,University of Pisa,ferragina@di.unipi.it,Ferragina,676;751,2
+Oluwaseyi Feyisetan,University of Southampton,seyi.feyisetan@gmail.com,Feyisetan,912,1
+Wolfgang Fischl,Vienna University of Technology,wfischl@dbai.tuwien.ac.at,Fischl,864,1
+Eitan Frachtenberg,Facebook,eitan@frachtenberg.org,Frachtenberg,148,1
+Jianlong Fu,"institute of automation, chinese academy of sciences",jlfu@nlpr.ia.ac.cn,Fu,420,1
+Ariel Fuxman,Microsoft Research,afuxman@gmail.com,Fuxman,1199,1
+Vijay Gabale,"IBM Research, India",vijay.gabale@gmail.com,Gabale,645,1
+Evgeniy Gabrilovich,Google Inc.,gabr@google.com,Gabrilovich,1310,1
+Mark Gahegan,"Centre for eResearch and SGGES, University of Auckland",m.gahegan@auckland.ac.nz,Gahegan,641,1
+Iftah Gamzu,Yahoo Labs,iftah.gamzu@cs.tau.ac.il,Gamzu,778,1
+Kris Ganjam,Microsoft Research,krisgan@microsoft.com,Ganjam,991,1
+Lixin Gao,University of Massachusetts Amherst,lgao@engin.umass.edu,Gao,580,1
+Fei Gao,Beihang University,gf0109@gmail.com,Gao,454,1
+Richard Garcia-Lebron,University of Puerto Rico - Rio Piedras,richard.garcialebron@upr.edu,Garcia-Lebron,530,1
+Martin Georgiev,University of Texas at Austin,mgeorgiev@utexas.edu,Georgiev,1139,1
+Shlomo Geva,Queensland University of Technology,s.geva@qut.edu.au,Geva,419,1
+Arpita Ghosh,Cornell University,ag865@cornell.edu,Ghosh,1070,1
+Aristides Gionis,Aalto University,aristides.gionis@aalto.fi,Gionis,487,1
+Shahar Golan,Yahoo! Labs,shaharg@yahoo-inc.com,Golan,417,1
+Nadav Golbandi,Yahoo! Labs,nadavg@yahoo-inc.com,Golbandi,417,1
+Cagatay Goncu,Monash University,cagatay.goncu@monash.edu,Goncu,1100,1
+Mihajlo Grbovic,Yahoo! Labs Sunnyvale,mihajlo@yahoo-inc.com,Grbovic,575;984,2
+Paul Groth,VU University Amsterdam,pgroth@gmail.com,Groth,714,1
+Huan Gui,University of Illinois at Urbana-Champaign,huangui2@illinois.edu,Gui,120,1
+John Guiver,Microsoft Research,joguiver@microsoft.com,Guiver,1423,1
+Songtao Guo,LinkedIn,songtao.gg@gmail.com,Guo,484,1
+Gleb Gusev,Yandex LLC,gleb57@yandex-team.ru,Gusev,335;339;463,3
+Aaron Halfaker,Wikimedia Foundation,aaron.halfaker@gmail.com,Halfaker,482,1
+Jiawei Han,University of Illinois at Urbana-Champaign,hanj@illinois.edu,Han,120;1199,2
+Takahiro Hara,Osaka University,hara@ist.osaka-u.ac.jp,Hara,759,1
+David Hardtke,LinkedIn Corp,dhardtke@linkedin.com,Hardtke,533,1
+Yeye He,Microsoft Research,yeyehe@microsoft.com,He,991,1
+Xiaodong He,Microsoft Research,xiaohe@microsoft.com,He,1159,1
+Kun He,Huazhong University of Science and Technology,brooklet60@hust.edu.cn,He,1263,1
+Denis Helic,"KMI, TU-Graz",dhelic@tugraz.at,Helic,115,1
+Qirong Ho,Institute for Infocomm Research,hoqirong@gmail.com,Ho,454,1
+Chien-Ju Ho,"University of California, Los Angeles",cjho@ucla.edu,Ho,326,1
+Minh Hoang,University of California Santa Barbara,mhoang@cs.ucsb.edu,Hoang,1287,1
+Aidan Hogan,"DCC, Universidad de Chile",aidhog@gmail.com,Hogan,1075,1
+Lichan Hong,Google. Inc.,lichan@google.com,Hong,1092,1
+John E. Hopcroft,Cornell Unveristy,jeh@cs.cornell.edu,Hopcroft,1263,1
+Thibaut Horel,Harvard University,thorel@seas.harvard.edu,Horel,553,1
+Eric Horvitz,Microsoft Research,horvitz@microsoft.com,Horvitz,278;1122,2
+Andreas Hotho,University of Wuerzburg,hotho@informatik.uni-wuerzburg.de,Hotho,115,1
+Dirk Hovy,University of Copenhagen,krx628@hum.ku.dk,Hovy,686,1
+Cho-Jui Hsieh,Univeristy of Texas at Austin,cjhsieh@cs.utexas.edu,Hsieh,1316,1
+Y. Charlie Hu,Purdue University,ychu@purdue.edu,Hu,860,1
+Patrick Hummel,Google,phummel@google.com,Hummel,98;1070,2
+Daniel Huttenlocher,Cornell University,dph@cs.cornell.edu,Huttenlocher,1223,1
+Adriana Iamnitchi,University of South Florida,anda@cse.usf.edu,Iamnitchi,1241,1
+Yen E.H. Ian,University of Texas at Austin,ianyen@cs.utexas.edu,Ian,1231,1
+Nicole Immorlica,Microsoft Research,nicimm@gmail.com,Immorlica,1147,1
+Panos Ipeirotis,NYU Stern School of Business,panos@stern.nyu.edu,Ipeirotis,1310;1365,2
+Rob Jackson,Google,roj@google.com,Jackson,1446,1
+Suman Jana,University of Texas at Austin,suman@cs.utexas.edu,Jana,1095;1139,2
+Adam Jatowt,Kyoto University,adam@dl.kuis.kyoto-u.ac.jp,Jatowt,810,1
+Nick Jennings,University of Southampton,nrj@ecs.soton.ac.uk,Jennings,1423,1
+Chris Jermaine,Rice University,cmj4@rice.edu,Jermaine,1047,1
+Madhav Jha,Sandia National Laboratories,madhavjha@gmail.com,Jha,299,1
+Jiepu Jiang,University of Massachusetts Amherst,jpjiang@cs.umass.edu,Jiang,1187,1
+Hongxia Jin,Samsung Research America,hongxia@acm.org,Jin,512,1
+Jiahui Jin,Southeast University,jhjin@seu.edu.cn,Jin,580,1
+Abhilash Jindal,Purdue University,jindal0@purdue.edu,Jindal,860,1
+Anders Johannsen,University of Copenhagen,johannsen@hum.ku.dk,Johannsen,686,1
+Rosie Jones,Microsoft,rosie.jones@microsoft.com,Jones,1187,1
+Wouter Joosen,KU Leuven,wouter.joosen@cs.kuleuven.be,Joosen,214,1
+Younghoon Jung,Columbia University,jung@cs.columbia.edu,Jung,831,1
+Dali Kaafar,NICTA,Dali.Kaafar@nicta.com.au,Kaafar,152,1
+Mohamed Kafsi,EPFL,mohamed.kafsi@epfl.ch,Kafsi,593,1
+Hiroshi Kajino,The University of Tokyo,Hiroshi_Kajino@mist.i.u-tokyo.ac.jp,Kajino,328,1
+Mohan Kankanhalli,National University of Singapore,mohan@comp.nus.edu.sg,Kankanhalli,838,1
+Dmytro Karamshuk,King's College London,dmytro.karamshuk@kcl.ac.uk,Karamshuk,1215,1
+Zohar Karnin,Yahoo! Labs,zkarnin@yahoo-inc.com,Karnin,417,1
+Yukiko Kawai,Kyoto Sangyo University,kawai@cc.kyoto-su.ac.jp,Kawai,810,1
+Imrul Kayes,University of South Florida,imrul@mail.usf.edu,Kayes,1241,1
+Oliver Keyes,Wikimedia Foundation,okeyes@wikimedia.org,Keyes,482,1
+Omar Zia Khan,Microsoft,omarzia.khan@microsoft.com,Khan,1187,1
+Samamon Khemmarat,University of Massachusetts Amherst,samamon@gmail.com,Khemmarat,580,1
+Dongho Kim,HP Labs,dongho.kim@hp.com,Kim,1378,1
+Kyu-Han Kim,HP Labs,kyu-han.kim@hp.com,Kim,1378,1
+Akihiro Kishimoto,IBM Research - Ireland,AKIHIROK@ie.ibm.com,Kishimoto,328,1
+Max Van Kleek,University of Southampton,emax@ecs.soton.ac.uk,Kleek,912,1
+Jon Kleinberg,Cornell University,kleinber@cs.cornell.edu,Kleinberg,1223;1324,2
+Isabel Kloumann,Cornell University,imk36@cornell.edu,Kloumann,1324,1
+Dan Kluver,University of Minnesota,kluver@cs.umn.edu,Kluver,482,1
+Ari Kobren,UMass Amherst,akobren@cs.umass.edu,Kobren,1310,1
+Pushmeet Kohli,Microsoft Research,pkohli@microsoft.com,Kohli,1423,1
+Farshad Kooti,USC Information Sciences Institute,kooti@usc.edu,Kooti,575,1
+Spyros Kotoulas,IBM Research - Ireland,Spyros.Kotoulas@ie.ibm.com,Kotoulas,328,1
+Nicolas Kourtellis,Yahoo Labs Barcelona,kourtell@yahoo-inc.com,Kourtellis,1241,1
+Ioannis Koutis,University of Puerto Rico-Rio Piedras,i.koutis@gmail.com,Koutis,530,1
+Danai Koutra,Carnegie Mellon University,danai@cs.cmu.edu,Koutra,278,1
+Dilip Krishnaswamy,"IBM Research, India",dilikris@in.ibm.com,Krishnaswamy,645,1
+Vivek Kulkarni,Stony Brook University,vvkulkarni@cs.stonybrook.edu,Kulkarni,753,1
+Ranjitha Gurunath Kulkarni,Microsoft,raguruna@microsoft.com,Kulkarni,1187,1
+Mounia Lalmas,Yahoo Labs,mounia@acm.org,Lalmas,732,1
+Stephane Laroche,HP Networking,stephane.laroche@hp.com,Laroche,1378,1
+Silvio Lattanzi,"Google, New York",silviol@google.com,Lattanzi,892,1
+Lillian Lee,Cornell University,llee@cs.cornell.edu,Lee,1105,1
+Jeongkeun Lee,HP Labs,jklee@hp.com,Lee,1378,1
+Wenke Lee,Georgia Institute of Technology,wenke@cc.gatech.edu,Lee,779,1
+Wang-Chien Lee,Penn State,wlee@cse.psu.edu,Lee,1256,1
+Byoungyoung Lee,Georgia Institute of Technology,blee@gatech.edu,Lee,779,1
+Juhan Lee,Samsung Research America - Silicon Valley,juhan.l@samsung.com,Lee,50,1
+Damien Lefortier,Yandex LLC,damien@yandex-team.ru,Lefortier,335,1
+Christiane Lemke,"Unister R&D, Leipzig",christiane.lemke@unister.de,Lemke,751,1
+Ronny Lempel,Outbrain,rlempel@gmail.com,Lempel,417,1
+Kristina Lerman,USC Information Sciences Institute,lerman@isi.edu,Lerman,575,1
+Jure Leskovec,Stanford University,jure@cs.stanford.edu,Leskovec,508;1157;1223;1405,4
+Liangyue Li,Arizona State University,liangyue@asu.edu,Li,590,1
+Pei Li,University of Zurich,peili@ifi.uzh.ch,Li,484,1
+Yixuan Li,Cornell Unveristy,yl2363@cornell.edu,Li,1263,1
+Yang Li,"University of California, Santa Barbara",yangli@cs.ucsb.edu,Li,1199,1
+Zhenhui Li,Penn State University,JessieLi@ist.psu.edu,Li,1256,1
+Ping Li,Rutgers University,pingli@stat.rutgers.edu,Li,738,1
+Yu-Ru Lin,University of Pittsburgh,yurulin@pitt.edu,Lin,590,1
+Lizhen Liu,Capital Normal University,lzliu@cnu.edu.cn,Liu,370,1
+Tie-Yan Liu,Microsoft Research,tie-yan.liu@microsoft.com,Liu,454,1
+Jerry Liu,Hewlett-Packard,jerry.liu@hp.com,Liu,1099,1
+Kelvin Liu,New York University,kelvin.liu2@nyu.edu,Liu,525,1
+Yunxin Liu,Microsoft Research,yunxin.liu@microsoft.com,Liu,442,1
+Daiping Liu,University of Delaware,dpliu@udel.edu,Liu,1051,1
+Jingjing Liu,Microsoft Research,jingjl@microsoft.com,Liu,1068,1
+Xuanzhe Liu,Peking University,liuxuanzhe@pku.edu.cn,Liu,442,1
+Yiqun Liu,Tsinghua University,yiqunliu@tsinghua.edu.cn,Liu,185,1
+Xiaosheng Liu,Huawei Noah's Ark Lab,liuxiaosheng@suda.edu.cn,Liu,341,1
+Benjamin Livshits,Microsoft Research,livshits@microsoft.com,Livshits,214,1
+Yanxin Lu,Rice University,yanxin.lu@rice.edu,Lu,1047,1
+Yi Lu,CUHK,ylu@cse.cuhk.edu.hk,Lu,256,1
+Hanqing Lu,"Institute of Automation, Chinese Academy of Sciences",luhq@nlpr.ia.ac.cn,Lu,420,1
+Shuang Luan,University of New Mexico,sluan@cs.unm.edu,Luan,1088,1
+Junzhou Luo,Southeast University,jluo@seu.edu.cn,Luo,580,1
+Dimitrios Lymberopolous,MSR,dlymper@microsoft.com,Lymberopolous,947,1
+Shaoping Ma,Tsinghua University,msp@tsinghua.edu.cn,Ma,185,1
+Yun Ma,Peking University,mayun@pku.edu.cn,Ma,442,1
+Richard T.B. Ma,"School of Computing, National University of Singapore",tbma@comp.nus.edu.sg,Ma,572,1
+Wei-Ying Ma,Microsoft Research,wyma@microsoft.com,Ma,454,1
+Hao Ma,Microsoft Research,haoma@microsoft.com,Ma,1068,1
+Anuradha Madugalla,Monash University,amad29@student.monash.edu,Madugalla,1100,1
+Anirban Mahanti,NICTA,anirban.mahanti@nicta.com.au,Mahanti,152,1
+Silviu Maniu,"Noah's Ark Lab, Huawei",silviu.maniu@gmail.com,Maniu,524,1
+Amin Mantrach,Yahoo! Labs Barcelona,amantrac@yahoo-inc.com,Mantrach,575,1
+Simone Marinai,University of Florence,simone.marinai@unifi.it,Marinai,1100,1
+Kim Marriott,Monash University,kim.marriott@infotech.monash.edu.au,Marriott,1100,1
+Wim Martens,University of Bayreuth,wim.martens@uni-bayreuth.de,Martens,706,1
+Edgard Marx,University of Leipzig,marx@informatik.uni-leipzig.de,Marx,973,1
+Dimitriy Masterov,eBay,dmasterov@ebay.com,Masterov,1435,1
+Yasuko Matsubara,Kumamoto University,yasuko@cs.kumamoto-u.ac.jp,Matsubara,219,1
+Andrea Maurino,"University of Milan, Bicocca",maurino@disco.unimib.it,Maurino,484,1
+Charalampos Mavroforakis,"Department of Computer Science, Boston University",cmav@bu.edu,Mavroforakis,530,1
+Jonathan Mayer,Stanford University,jmayer@stanford.edu,Mayer,1298,1
+Preston McAfee,Microsoft Research,preston@mcafee.cc,McAfee,98,1
+Grant McKenzie,"University of California, Santa Barbara",grantdmckenzie@gmail.com,McKenzie,641,1
+Richard McPherson,University of Texas at Austin,richard@cs.utexas.edu,McPherson,1095,1
+Tao Mei,Microsoft Research,tmei@microsoft.com,Mei,420,1
+Qiaozhu Mei,University of Michigan,qmei@umich.edu,Mei,228;890,2
+Christian Meilicke,University of Mannheim,christian@informatik.uni-mannheim.de,Meilicke,651,1
+Wei Meng,Georgia Institute of Technology,wei@gatech.edu,Meng,779,1
+Changping Meng,The University of Hong Kong,cpmeng@cs.hku.hk,Meng,524,1
+Iris Miliaraki,"Yahoo Labs, Spain",irismili@yahoo-inc.com,Miliaraki,732,1
+Tehila Minkus,New York University,tehila@nyu.edu,Minkus,525,1
+Amanda Minnich,University of New Mexico,aminnich@cs.unm.edu,Minnich,1088,1
+Vishal Misra,Columbia University,misra@cs.columbia.edu,Misra,1038,1
+Tom Mitchell,Carnegie Mellon University,Tom.Mitchell@cmu.edu,Mitchell,151,1
+Prasant Mohapatra,UC Davis,prasant@cs.ucdavis.edu,Mohapatra,152,1
+Tyler Moore,Southern Methodist University,twmoore@gmail.com,Moore,1096,1
+Andrea Moro,Sapienza University of Rome,andrea8moro@gmail.com,Moro,751,1
+Abdullah Mueen,University of New Mexico,mueen@cs.unm.edu,Mueen,1088,1
+Arvind Narayanan,Princeton University,arvindn@cs.princeton.edu,Narayanan,1298,1
+Roberto Navigli,Sapienza University of Rome,navigli@di.uniroma1.it,Navigli,751,1
+Richi Nayak,"Schhol of Computing Science, QUT",r.nayak@qut.edu.au,Nayak,419,1
+Frank Neven,Hasselt University/Transnational University of Limburg,frank.neven@uhasselt.be,Neven,706,1
+Jennifer Neville,Purdue University,neville@cs.purdue.edu,Neville,1169,1
+Wilfred Ng,HKUST,wilfred@cse.ust.hk,Ng,256,1
+Axel-Cyrille Ngonga Ngomo,University of Leipzig,ngonga@informatik.uni-leipzig.de,Ngomo,751;973,2
+Tien Nguyen,University of Minnesota,nguy1749@umn.edu,Nguyen,482,1
+Vlad Niculae,Max Planck Institute SWS,vniculae@mpi-sws.org,Niculae,1405,1
+Ana Nika,UC Santa Barbara,anika@cs.ucsb.edu,Nika,860,1
+Nick Nikiforakis,Stony Brook University,nick@cs.stonybrook.edu,Nikiforakis,214,1
+Shojiro Nishio,Osaka University,nishio@ist.osaka-u.ac.jp,Nishio,759,1
+Umut Ozertem,Microsoft,umut.ozertum@microsoft.com,Ozertem,1187,1
+Ashwin Paranjape,Stanford University,ashwinp@cs.stanford.edu,Paranjape,1157,1
+Srinivasan Parthasarathy,ohio state university,srini@cse.ohio-state.edu,Parthasarathy,1153,1
+Linnea Passing,Technische Universität München,mail@linnea-passing.de,Passing,511,1
+Bibek Paudel,University of Zurich,bpaudel@ifi.uzh.ch,Paudel,1396,1
+Michael Paul,Johns Hopkins University,mpaul39@gmail.com,Paul,1122,1
+Gennady Pekhimenko,Carnegie Mellon University,gpekhime@cs.cmu.edu,Pekhimenko,947,1
+Roberto Perdisci,University of Georgia,perdisci@cs.uga.edu,Perdisci,779,1
+Bryan Perozzi,Stony Brook University,bperozzi@cs.stonybrook.edu,Perozzi,753,1
+Joseph Pfeiffer,Purdue University,jpfeiffer@purdue.edu,Pfeiffer,1169,1
+Minh-Duc Pham,CWI,duc@cwi.nl,Pham,511,1
+Thomas Phan,Samsung Research America - Silicon Valley,thomas.phan@samsung.com,Phan,50,1
+Francesco Piccinno,University of Pisa,piccinno@di.unipi.it,Piccinno,676;751,2
+Reinhard Pichler,Vienna University of Technology,pichler@dbai.tuwien.ac.at,Pichler,864,1
+Ali Pinar,Sandia National Laboratories,apinar@sandia.gov,Pinar,299;923,2
+Yuzhong Qu,"Nanjing University, China",yzqu@nju.edu.cn,Qu,244,1
+Meng Qu,Peking University,qumn123@gmail.com,Qu,228,1
+Daniele Quercia,Yahoo Labs,daniele.quercia@gmail.com,Quercia,799;1241,2
+Vladan Radosavljevic,Yahoo,vladan@yahoo-inc.com,Radosavljevic,984,1
+Matthew Rantanen,Southern California Tribal Chairman's Association,mrantanen@sctdv.net,Rantanen,1022,1
+R Ravi,"Tepper School of Business, Carnegie Mellon University",ravi@andrew.cmu.edu,Ravi,1299,1
+Steven Reece,University of Oxford,reece@robots.ox.ac.uk,Reece,1423,1
+Dillon Reisman,Princeton University,dreisman@princeton.edu,Reisman,1298,1
+Paul Resnick,University of Michigan,presnick@umich.edu,Resnick,890,1
+Bruno Ribeiro,Carnegie Mellon University,ribeiro@cs.cmu.edu,Ribeiro,1287,1
+Alan Ritter,The Ohio State University,aritter@cs.washington.edu,Ritter,151,1
+Oriana Riva,MSR,Oriana.Riva@microsoft.com,Riva,947,1
+Scott Rixner,Rice University,rixner@rice.edu,Rixner,1047,1
+Giuseppe Rizzo,EURECOM,giuseppe.rizzo@eurecom.fr,Rizzo,751,1
+Brent Robers,Brigham Young University - Internet Security Research Lab,roberts@isrl.byu.edu,Robers,1323,1
+Stephen Roberts,University of Oxford,sjrob@robots.ox.ac.uk,Roberts,1423,1
+Oleg Rokhlenko,Yahoo! Labs,olegro@yahoo-inc.com,Rokhlenko,417,1
+Markus Rokicki,L3S Research Center,rokicki@L3S.de,Rokicki,259,1
+Keith Ross,Polytechnic University,ross@poly.edu,Ross,525,1
+Yong Rui,Microsoft Research,yongrui@microsoft.com,Rui,420,1
+Scott Ruoti,Brigham Young University - Internet Security Research Lab,ruoti@isrl.byu.edu,Ruoti,1323,1
+Michael Röder,University of Leipzig,roeder@unister.de,Röder,751,1
+Harald Sack,Hasso-Plattner-Institute Potsdam,harald.sack@hpi.uni-potsdam.de,Sack,751,1
+Yasushi Sakurai,Kumamoto University,yasushi@cs.kumamoto-u.ac.jp,Sakurai,219,1
+Siranush Sarkizova,Harvard University,ssarkizova@g.harvard.edu,Sarkizova,1028,1
+Ahmet Erdem Sarıyüce,The Ohio State University,a.erdemsariyuce@gmail.com,Sarıyüce,923,1
+Nishanth Sastry,King's College London,nishanth.sastry@kcl.ac.uk,Sastry,1215,1
+Rossano Schifanella,University of Turin,schifane@di.unito.it,Schifanella,799,1
+Kent Seamons,Brigham Young University - Internet Security Research Lab,seamons@cs.byu.edu,Seamons,1323,1
+Souvik Sen,HP Labs,souvik.sen@hp.com,Sen,1378,1
+Pierre Senellart,Telecom ParisTech,pierre.senellart@telecom-paristech.fr,Senellart,524,1
+Aruna Seneviratne,UNSW and NICTA,Aruna.Seneviratne@nicta.com.au,Seneviratne,152,1
+Suranga Seneviratne,UNSW and NICTA,suranga.seneviratne@nicta.com.au,Seneviratne,152,1
+Pavel Serdyukov,Yandex LLC,pavser@yandex-team.ru,Serdyukov,335;339;463,3
+C. Seshadhri,Sandia National Laboratories,scomand@sandia.gov,Seshadhri,299;923,2
+Nigel Shadbolt,University of Southampton,nrs@ecs.soton.ac.uk,Shadbolt,912,1
+David A. Shamma,Yahoo Labs,aymans@acm.org,Shamma,593,1
+Anmol Sheth,Amazon,anmolsheth@gmail.com,Sheth,779,1
+Zhao Shiqi,Baidu Inc.,zhaoshiqi@baidu.com,Shiqi,370;1231,2
+Masumi Shirakawa,Osaka University,shirakawa.masumi@ist.osaka-u.ac.jp,Shirakawa,759,1
+Vitaly Shmatikov,University of Texas at Austin,shmat@cs.utexas.edu,Shmatikov,1095;1139,2
+Milad Shokouhi,Microsoft Research,milads@microsoft.com,Shokouhi,1028,1
+Kenneth Shores,University of Minnesota,shores@cs.umn.edu,Shores,482,1
+Anshumali Shrivastava,Cornell University,anshu@cs.cornell.edu,Shrivastava,738,1
+Stefan Siersdorfer,L3S Research Center,siersdorfer@L3S.de,Siersdorfer,259,1
+Mantas Simkus,Vienna University of Technology,simkus@dbai.tuwien.ac.at,Simkus,864,1
+Elena Simperl,University of Southampton,E.Simperl@soton.ac.uk,Simperl,912,1
+Edwin Simpson,University of Oxford,edwin@robots.ox.ac.uk,Simpson,1423,1
+Philipp Singer,Leibniz Institute for the Social Sciences GESIS,philipp.singer@gesis.org,Singer,115,1
+Yaron Singer,Harvard University,yaron@seas.harvard.edu,Singer,553,1
+Ambuj Singh,University of California Santa Barbara,ambuj@cs.ucsb.edu,Singh,1287,1
+Steven Skiena,Stony Brook University,skiena@cs.stonybrook.edu,Skiena,753,1
+Sebastian Skritek,Vienna University of Technology,skritek@dbai.tuwien.ac.at,Skritek,864,1
+Aleksandrs Slivkins,Microsoft Research,slivkins@microsoft.com,Slivkins,326,1
+Marc Sloan,University College London,marc.sloan.10@ucl.ac.uk,Sloan,1028,1
+Alexander Smola,Carnegie Mellon University,alex@smola.org,Smola,216,1
+Oren Somekh,Yahoo! Labs,orens@yahoo-inc.com,Somekh,417,1
+Wei Song,"School of Information Engineering, Capital Normal University",wsong@cnu.edu.cn,Song,370,1
+Yang Song,Microsoft Research,yangsong@microsoft.com,Song,1159,1
+Tommaso Soru,University of Leipzig,tsoru@informatik.uni-leipzig.de,Soru,973,1
+Mauro Sozio,"Telecom Paristech, Paris",sozio@telecom-paristech.fr,Sozio,892,1
+René Speck,University of Leipzig,speck@informatik.uni-leipzig.de,Speck,751,1
+Srinath Sridhar,Bloomreach Inc.,srinath@bloomreach.com,Sridhar,1299,1
+Divesh Srivastava,AT&T Labs-Research,divesh@research.att.com,Srivastava,484,1
+Angelos Stavrou,George Mason University,astavrou@gmu.edu,Stavrou,1051,1
+Greg Stoddard,Northwestern University,stoddardg@gmail.com,Stoddard,1147,1
+Karl Stratos,Columbia University,stratos@cs.columbia.edu,Stratos,831,1
+Karin Strauss,MSR,kstrauss@microsoft.com,Strauss,947,1
+Markus Strohmaier,Leibniz Institute for the Social Sciences GESIS,markus.strohmaier@gesis.org,Strohmaier,115,1
+Heiner Stuckenschmidt,University of Mannheim,heiner@informatik.uni-mannheim.de,Stuckenschmidt,651,1
+Philip Stutz,University of Zurich,stutz@ifi.uzh.ch,Stutz,1396,1
+Caroline Suen,Stanford University,cysuen@stanford.edu,Suen,1405,1
+Huan Sun,"University of California, Santa Barbara",huansun@cs.ucsb.edu,Sun,1068,1
+Jimeng Sun,"Georgia Institute of Technology, USA",jsun@cc.gatech.edu,Sun,611,1
+Siddharth Suri,Microsoft Research,suri@microsoft.com,Suri,326,1
+Vasilis Syrgkanis,Microsoft Research,vasilis@cs.cornell.edu,Syrgkanis,1147,1
+Anders Søgaard,University of Copenhagen,sogaard@hum.ku.dk,Søgaard,686,1
+Steve Tadelis,UC Berkeley,stadelis@haas.berkeley.edu,Tadelis,1435,1
+Chun How Tan,Google Inc.,chunhowt@google.com,Tan,1310,1
+Chenhao Tan,Cornell University,chenhao@cs.cornell.edu,Tan,1105,1
+Jie Tang,Tsinghua University,jietang@tsinghua.edu.cn,Tang,611,1
+Jian Tang,Microsoft Research,tangjianpku@gmail.com,Tang,228,1
+Fangbo Tao,University of Illinois at Urbana-Champaign,ftao2@illinois.edu,Tao,1199,1
+Nikolaj Tatti,Aalto University,nikolaj.tatti@aalto.fi,Tatti,487,1
+Evimaria Terzi,Boston University,evimaria@cs.bu.edu,Terzi,530,1
+Jacob Thebault-Spieker,University of Minnesota,thebault@cs.umn.edu,Thebault-Spieker,482,1
+Bart Thomee,Yahoo Labs,bthomee@yahoo-inc.com,Thomee,593,1
+Tian Tian,Tsinghua university,rossowhite@163.com,Tian,632,1
+Mitul Tiwari,LinkedIn Corporation,mtiwari@linkedin.com,Tiwari,1223,1
+Hanghang Tong,Arizona State University,hanghang.tong@asu.edu,Tong,590,1
+Raphaël Troncy,EURECOM,raphael.troncy@eurecom.fr,Troncy,751,1
+Janice Tsai,Microsoft Research,janice.tsai@microsoft.com,Tsai,1079,1
+Chen-Tse Tsai,University of Illinois at Urbana-Champaign,ctsai12@illinois.edu,Tsai,1068,1
+Charalampos Tsourakakis,Harvard University,tsourolampis@gmail.com,Tsourakakis,264;554,2
+Anuradha Uduwage,University of Minnesota,uduwage@cs.umn.edu,Uduwage,482,1
+Ricardo Usbeck,University of Leipzig,ricardo.usbeck@googlemail.com,Usbeck,751,1
+Yury Ustinovskiy,Yandex,yuraust@gmail.com,Ustinovskiy,339,1
+Stijn Vansummeren,Université Libre de Bruxelles,stijn.vansummeren@ulb.ac.be,Vansummeren,706,1
+Jenn Wortman Vaughan,Microsoft Research,jenn@microsoft.com,Vaughan,326,1
+Matteo Venanzi,University of Southampton,mv1g10@ecs.soton.ac.uk,Venanzi,1423,1
+Rossano Venturini,"Dipartimento di Informatica, Università di Pisa",rossano.venturini@gmail.com,Venturini,676,1
+Mihaela Verman,University of Zurich,verman@ifi.uzh.ch,Verman,1396,1
+Morgan Vigil,"University of California, Santa Barbara",mvigil@cs.ucsb.edu,Vigil,1022,1
+Sebastiano Vigna,Universita' degli Studi di Milano,vigna@di.unimi.it,Vigna,189,1
+Lance De Vine,Queensland University of Technology,l.devine@qut.edu.au,Vine,419,1
+S.V.N Vishwanathan,"University of California, Santa Cruz",vishy@ucsc.edu,Vishwanathan,1316,1
+Aleksandr Vorobev,Yandex LLC,alvor88@yandex-team.ru,Vorobev,335,1
+Chris De Vries,Queensland University of Technology,chris@de-vries.ws,Vries,419,1
+John Wadleigh,Southern Methodist University,jwadleigh@smu.edu,Wadleigh,1096,1
+Jörg Waitelonis,Hasso-Plattner-Institute Potsdam,joerg.waitelonis@hpi.uni-potsdam.de,Waitelonis,751,1
+Chi Wang,Microsoft Research,chiw@microsoft.com,Wang,991,1
+Mingzhe Wang,Peking University,wmzpku@gmail.com,Wang,228,1
+Haining Wang,University of Delaware,hnw@udel.edu,Wang,1051,1
+Jian Wang,LinkedIn Corp,wheaty1202@gmail.com,Wang,533,1
+Yuhui Wang,National University of Singapore,wangyuhui@nus.edu.sg,Wang,838,1
+Xin Wang,University of Science and Technology of China,yixinxa@mail.ustc.edu.cn,Wang,572,1
+Haifeng Wang,Baidu,wanghaifeng@baidu.com,Wang,370,1
+Hongjian Wang,Penn State,hxw186@psu.edu,Wang,1256,1
+Hanshi Wang,Capital Normal University,hswang@cnu.edu.cn,Wang,370,1
+Morten Warncke-Wang,University of Minnesota,morten@cs.umn.edu,Warncke-Wang,482,1
+Joe Warren,Rice University,jwarren@rice.edu,Warren,1047,1
+Jinliang Wei,Carnegie Mellon University,jinlianw@cs.cmu.edu,Wei,454,1
+Udi Weinsberg,Facebook,udi@fb.com,Weinsberg,779,1
+Lars Wesemann,"Unister R&D, Leipzi",lars.wesemann@unister.de,Wesemann,751,1
+Robert West,Stanford University,west@cs.stanford.edu,West,1157,1
+Ryen W. White,Microsoft Research,ryenw@microsoft.com,White,1122,1
+Mike Williamson,Google,miwilliamson@google.com,Williamson,1446,1
+Evan Wright,Carnegie Mellon University,evanw@cmu.edu,Wright,151,1
+Shaomei Wu,Facebook Inc.,shaomei@fb.com,Wu,1324,1
+Hua Wu,Baidu,wu_hua@baidu.com,Wu,370,1
+Hao Wu,University of Southern California,hwu732@usc.edu,Wu,984,1
+Shanchan Wu,HP Labs at Palo Alto,shanchan.wu@hp.com,Wu,1099,1
+Fei Wu,Penn State University,fxw133@psu.edu,Wu,1256,1
+Marcin Wylot,University of Fribourg,marcin@exascale.info,Wylot,714,1
+Fen Xia,Baidu,xiafen@baidu.com,Xia,632,1
+Ruirui Xiang,Peking University,xiangrr0512@pku.edu.cn,Xiang,442,1
+Hu Xiaohua,Drexel University,xh29@drexel.edu,Xiaohua,1231,1
+Xing Xie,Microsoft Research,xingx@microsoft.com,Xie,246,1
+Tao Xie,University of Illinois at Urbana-Champaign,taoxie@illinois.edu,Xie,442,1
+Eric Po Xing,Carnegie Mellon University,epxing@cs.cmu.edu,Xing,454,1
+Xinyu Xing,Georgia Institute of Technology,xxing8@gatech.edu,Xing,779,1
+Haitao Xu,The College of William and Mary,hxu@cs.wm.edu,Xu,1051,1
+Danyun Xu,Nanjing University,dyxu@smail.nju.edu.cn,Xu,244,1
+Yinlong Xu,University of Science and Technology of China,ylxu@ustc.edu.cn,Xu,572,1
+Ya Xu,LinkedIn Corporation,yaxu@linkedin.com,Xu,120,1
+Rui Yan,Baidu Inc.,rui.yan.pku@gmail.com,Yan,1231,1
+Jun Yan,Microsoft Research,junyan@microsoft.com,Yan,228,1
+Da Yan,CUHK,yanda@cse.cuhk.edu.hk,Yan,256,1
+Jianfeng Yan,Huawei Noah's Ark Lab,yanjf@suda.edu.cn,Yan,341,1
+Qiang Yang,Hong Kong University of Science and Technology,qyang@cse.ust.hk,Yang,341,1
+Xi Yang,Huawei Noah's Ark Lab,524435966@qq.com,Yang,341,1
+Kuiyuan Yang,Microsoft Research Asia,ustc_yky@hotmail.com,Yang,420,1
+Zhi Yang,Peking University,yangzhiatpku@gmail.com,Yang,418,1
+Qing Yi,University of Colorado at Colorado Springs,qyi@uccs.edu,Yi,610,1
+Wen-Tau Yih,Microsoft Research,scottyih@microsoft.com,Yih,1068,1
+Hsiang-Fu Yu,Univeristy of Texas at Austin,rofuyu@cs.utexas.edu,Yu,1316,1
+Nicholas Jing Yuan,Microsoft Research,nicholas.yuan@microsoft.com,Yuan,246,1
+Jinhui Yuan,Microsoft Research,jiyuan@microsoft.com,Yuan,454,1
+Chuan Yue,University of Colorado Colorado Springs,cyue@uccs.edu,Yue,610,1
+Hyokun Yun,Purdue University,yun3@purdue.edu,Yun,1316,1
+Jia Zeng,Huawei Noah's Ark Lab,zengja@gmail.com,Zeng,341,1
+Sergej Zerr,L3S Research Center,zerr@L3S.de,Zerr,259,1
+Justine Zhang,Stanford University,justinez@stanford.edu,Zhang,1405,1
+Shuhui Zhang,Peking University,zhangshuhui@pku.edu.cn,Zhang,442,1
+Fuzheng Zhang,Microsoft Research,v-fuz@microsoft.com,Zhang,246,1
+Chao Zhang,Baidu,zhangchao01@baidu.com,Zhang,370,1
+Yongfeng Zhang,Tsinghua University,zhangyf07@gmail.com,Zhang,185,1
+Tong Zhang,Baidu,tongzhang@baidu.com,Zhang,632,1
+Min Zhang,Tsinghua University,z-m@tsinghua.edu.cn,Zhang,185,1
+Wangda Zhang,The University of Hong Kong,wdzhang2@cs.hku.hk,Zhang,524,1
+Ming Zhang,Peking University,mzhang@net.pku.edu.cn,Zhang,228,1
+Yi Zhang,"University of California, Santa Cruz",yiz@soe.ucsc.edu,Zhang,185,1
+Ben Zhao,UC Santa Barbara,ravenben@cs.ucsb.edu,Zhao,860,1
+Rui Zhao,University of Colorado Colorado Springs,rzhao@uccs.edu,Zhao,610,1
+Bo Zhao,Microsoft Research,bo.zhao.uiuc@gmail.com,Zhao,1199,1
+Zhe Zhao,"University of Michigan, Ann Arbor",zhezhao@umich.edu,Zhao,890;1092,2
+Haitao Zheng,UC Santa Barbara,htzheng@cs.ucsb.edu,Zheng,860,1
+Xun Zheng,Carnegie Mellon University,xunzheng@cs.cmu.edu,Zheng,454,1
+Kai Zheng,"The University of Queensland, Australia",kevinz@itee.uq.edu.au,Zheng,246,1
+Changtao Zhong,King's College London,changtao.zhong@kcl.ac.uk,Zhong,1215,1
+Xia Zhou,Dartmouth College,xia@cs.dartmouth.edu,Zhou,860,1
+Jiayu Zhou,Samsung Research America - Silicon Valley,jiayu.zhou@samsung.com,Zhou,50,1
+Xiaofang Zhou,"The University of Queensland, Australia",zxf@itee.uq.edu.au,Zhou,246,1
+Jun Zhu,Tsinghua University,dcszj@mail.tsinghua.edu.cn,Zhu,632,1
+Yibo Zhu,UC Santa Barbara,yibo@cs.ucsb.edu,Zhu,860,1
+Xin Zhuang,Baidu,zhuangxin@baidu.com,Zhuang,632,1
+Peter Zimmerman,Princeton University,peterz@cs.princeton.edu,Zimmerman,1298,1
+Imed Zitouni,Microsoft,izitouni@microsoft.com,Zitouni,1187,1
