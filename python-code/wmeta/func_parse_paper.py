@@ -6,9 +6,13 @@ import csv
 import json
 
 def parse_paper_csv(filename):
+    print "processing ", filename
+
     if not os.path.exists(filename):
-        print "file not exists ", filename
+        print "file not exists "
         return
+
+
 
     map_author = {}
     list_paper = []
